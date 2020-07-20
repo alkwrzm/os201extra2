@@ -1,1 +1,37 @@
+REV01 MON Jul 20 14:31:00 WIB 2020
+==================================
+
+a) apa yang dikerjakan sejak penulisan memo sebelumnya
+1. Memilih 1 dari beberapa pilihan tugas yang disediakan. Saya memilih tugas 2 yaitu 
+post mortem analysis atas pelaksanaan UAS lalu. Tugas ini bertujuan sebagai masukan 
+untuk penyelenggaraan UTS/UAS semester depan
+
+2. Memiliki akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas
+memo.txt (MEMO) di "hannajtm/memo.txt"
+
+3. Membuat folder "os201extra2/" dalam os201 (pribadi)
+
+4. Membuat berkas pada "os201extra2/" dalam os201 (pribadi) :
+0000-mypub.txt 
+0001-extra201.txt.asc 
+
+5. Mengkomunikasikan rencana pengerjaan tugas bersama anggota lain
+
+6. Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas
+
+
+b) rencana yang akan dikerjakan
+1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
+
+2. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+
+3. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
+
+4. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+
+c) koordinasi dengan anggota lainnya
+
+
+d) belum ada hasil yang tercapai
 
