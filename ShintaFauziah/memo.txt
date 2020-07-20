@@ -1,10 +1,12 @@
+REV01 MON Jul 20 16:20:00 WIB 2020
+
 Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 ===============================================
 1) Mengupdate folder pada UAS pribadi dari extra201 menjadi os201extra2
 2) Membuat berkas 0000-mypub.txt (berkas tersebut merupakan berkas lama saya)
 3) Membuat berkas 0001-extra201.txt.asc
 4) Membuat berkas 0002-TOR.txt.asc
-5) Mengupdate memo (UPDATE 1)
+5) Mengupdate memo 
 
 Rencana yang Akan Dikerjakan
 ============================
@@ -17,8 +19,7 @@ Rencana yang Akan Dikerjakan
 Koordinasi dengan Anggota Lainnya 
 =================================
 1) Melakukan koordinasi terkait proposal (TOR)
-2) Melakukan koordinasi terkait tugas pilihan 1 dan tugas pilihan 2
 
 Hasil yang Dicapai
 ==================
-Belum
+Belum ada yang tercapai
