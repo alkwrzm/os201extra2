@@ -1,0 +1,22 @@
+REV01 MON Jul 20 21:28:00 WIB 2020
+
+A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
+1. Membuat dan melakuakn push 0002-TOR.txt.asc pada git pribadi 
+2. Memilih mengerjakan Tugas 2 
+3. Membuat folder "os201extra2/" dalam os201 (pribadi)
+4. Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+
+B. Rencana yang akan dikerjakan
+1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS pada semester 4 ini 
+
+2. Membuat berkas 0004-catatan-OS201.txt 
+
+3.  Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+C. Koordinasi dengan anggota lainnya
+1. Menampung pandangan mahasiswa terhadap pelaksanaan UAS melalui survey 
+
+2. Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+
+D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
+1. 0002-TOR.txt.asc : https://github.com/naurakhansa/os201/tree/master/extra201
