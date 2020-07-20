@@ -1,0 +1,24 @@
+Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
+===============================================
+1) Mengupdate folder pada UAS pribadi dari extra201 menjadi os201extra2
+2) Membuat berkas 0000-mypub.txt (berkas tersebut merupakan berkas lama saya)
+3) Membuat berkas 0001-extra201.txt.asc
+4) Membuat berkas 0002-TOR.txt.asc
+5) Mengupdate memo (UPDATE 1)
+
+Rencana yang Akan Dikerjakan
+============================
+1) Membuat berkas 0003-pelaksanaan-OS201.txt
+2) Membuat berkas 0004-catatan-OS201.txt
+3) Mengupdate 0002-TOR.txt.asc (jika terdapat hal - hal yang perlu di revisi)
+4) Membuat tugas post mortem analysis
+4) Mengupdate MEMO
+
+Koordinasi dengan Anggota Lainnya 
+=================================
+1) Melakukan koordinasi terkait proposal (TOR)
+2) Melakukan koordinasi terkait tugas pilihan 1 dan tugas pilihan 2
+
+Hasil yang Dicapai
+==================
+Belum
