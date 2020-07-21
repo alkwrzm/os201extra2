@@ -45,6 +45,7 @@ c) koordinasi dengan anggota lainnya
 
 5. Komunikasi untuk menyebarluaskan form untuk diisi oleh peserta UAS OS kelas A B C
 
+
 d) Hasil yang dicapai
 ================================
 1. 0002-TOR.txt terlampir dalam https://github.com/hannajtm/os201/tree/master/os201extra2
