@@ -1,4 +1,5 @@
-REV01 MON Jul 20 22:00:00 WIB 2020
+REV02 TUE Jul 21 23:40:00 WIB 2020
+REV01 MON Jul 20 22:12:00 WIB 2020
 ==================================
 
 Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
@@ -10,6 +11,8 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 2) Memilih mengerjakan Tugas nomor 2
 3) Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas extra. Lalu, memasukannya ke folder os201extra2 pada github pribadi
 4) Mengkomunikasikan serta mendiskusikan rencana pengerjaan tugas bersama mahasiswa lain
+5) Mengupdate berkas 0001-extra201.txt dengan menambahkan asal kelas
+6) Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG dan nilai yang di UPGRADE
 
 Rencana yang akan dikerjakan
 =============================
