@@ -1,5 +1,6 @@
-REV02 TUE Jul 21 07:55:00 WIB 2020
-REV01 MON Jul 20 14:31:00 WIB 2020
+REV03 Tue Jul 21 11:24:00 WIB 2020
+REV02 Tue Jul 21 07:55:00 WIB 2020
+REV01 Mon Jul 20 14:31:00 WIB 2020
 ==================================
 
 a) apa yang dikerjakan sejak penulisan memo sebelumnya
@@ -20,6 +21,8 @@ memo.txt (MEMO) di "hannajtm/memo.txt"
 5. Mengkomunikasikan rencana pengerjaan tugas bersama anggota lain
 
 6. Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas
+
+7. Update 0001-extra201.txt.asc dan 0002-TOR.txt.asc
 
 
 b) rencana yang akan dikerjakan
@@ -49,3 +52,5 @@ c) koordinasi dengan anggota lainnya
 d) Hasil yang dicapai
 ================================
 1. 0002-TOR.txt terlampir dalam https://github.com/hannajtm/os201/tree/master/os201extra2
+
+2. 0001-extra201.txt.asc terlampir dalam https://github.com/hannajtm/os201/tree/master/os201extra2
