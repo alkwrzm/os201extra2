@@ -35,4 +35,5 @@ c) Koordinasi dengan anggota lainnya
 
 
 d) Hasil yang tercapai hingga saat ini : 
-0002-TOR.txt.asc : https://github.com/rafaputri86/os201/blob/master/extra201/
+mengganti nama extra201 menjadi os201extra2
+mengupdate 0002-TOR.txt.asc : https://github.com/rafaputri86/os201/blob/master/extra201/
