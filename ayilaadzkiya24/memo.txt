@@ -1,1 +1,26 @@
+REV01 TUE Jul 21 07:47:00 WIB 2020
+==================================
+
+1) Apa yg udah dilakuin setelah bikin memo
+==========================================
+1a) Membuat folder "os201extra2/" dalam os201 pribadi yang berisi:
+0000-mypub.txt
+0001-extra201.txt.asc
+0002-TOR.txt.asc
+1b) Melakukan update pada memo.txt
+1c) Merencanakan pembagian kerja dengan anggota kelompok
+
+2) Rencana yang akan dikerjakan
+===============================
+2a) Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
+2b) Membuat berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
+2c) Membahas dan mengerjakan bersama anggota kelompok lainnya 
+
+3) Koordinasi dengan anggota lainnya
+====================================
+3a) Melakukan koordinasi dengan anggota lainnya mengenai tugas yang akan dilaksanakan 
+
+4) Hasil tugas udah sampe mana
+==============================
+4a) Belum ada hasil yang tercapai saat ini
 

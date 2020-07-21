@@ -1,1 +1,48 @@
+REV01 TUE Jul 21  03:18:01 WITA 2020
+==================================
 
+Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
+=============================================================
+1. Memilih 1 dari beberapa pilihan tugas. Saya memilih tugas 2 yaitu post mortem analysis atas pelaksanaan UAS lalu.
+
+2. Meminta akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas memo.txt (MEMO) di "adzshaf/memo.txt"
+
+3. Membuat folder "os201extra2/" dalam os201 (pribadi)
+
+4. Membuat berkas pada "os201extra2/" dalam os201 (pribadi): 
+   - 0000-mypub.txt 
+   - 0001-extra201.txt.asc
+   - 0002-TOR.txt.asc
+
+5. Melakukan pemeriksaan terhadap hasil enkripsi
+
+Rencana yang akan dikerjakan
+=============================
+1. Update MEMO secara berkala setiap hari
+
+2. Membuat berkas 0003-pelaksanaan-OS201.txt sesuai ketentuan
+
+3. Memahami referensi https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+
+4. Membuat berkas 0004-catatan-OS201.txt yang berisi penilaian terhadap referensi dari sudut pandang peserta mata kuliah OS
+
+5. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+Koordinasi dengan anggota lainnya
+=================================
+1. Membuat survei untuk menampung pandangan mahasiswa terhadap pelaksanaan UAS kemarin.
+
+2. Menyebarkan form survei untuk diisi oleh para mahasiswa yang mengikuti UAS OS.
+
+3. Mengkomunikasikan dan merencanakan pengerjaan tugas kelompok bersama anggota lainnya.
+
+Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
+===========================================================================
+
+- 0000-mypub.txt (https://github.com/adzshaf/os201/blob/master/os201extra2/0000-mypub.txt)
+
+- 0001-extra201.txt.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/0001-extra201.txt.asc)
+
+- 0002-TOR.txt.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/0002-TOR.txt.asc)
+
+URL: https://github.com/adzshaf/os201/tree/master/os201extra2
