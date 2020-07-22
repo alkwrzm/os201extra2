@@ -1,3 +1,4 @@
+REV02 WED Jul 22 13:38:15 WIB 2020
 REV01 MON Jul 20 23:45:17 WIB 2020
 ==================================
 
@@ -7,6 +8,9 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 2. Memiliki akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas memo.txt (MEMO) di "AlphaRazra/memo.txt"
 3. Membuat folder "os201extra2/" dalam os201 (pribadi)
 4. Membuat berkas pada "os201extra2/" dalam os201 (pribadi) : 0000-mypub.txt, 0001-extra201.txt.asc, 0002-TOR.txt.asc
+5. Mengupdate berkas 0001-extra201.txt dan 0002-TOR.txt dengan terdapat kelas pada header
+6. Mulai mencari perbandingan UAS OS dengan UAS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
+7. Mulai mencari catatan tambahan untuk pelaksanaan UAS OS untuk pengisian berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
