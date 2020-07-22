@@ -1,3 +1,4 @@
+REV02 WED Jul 22 16:44:37 WIB 2020
 REV01 WED Jul 22 14:33:15 WIB 2020
 ==================================
 
@@ -12,6 +13,10 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
    c. 0002-TOR.txt.asc
 5. Mulai mencari perbandingan UAS OS dengan UAS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
 6. Mulai mencari catatan tambahan untuk pelaksanaan UAS OS untuk pengisian berkas 0004-catatan-OS201.txt
+7. Mengganti tulisan pada 0002-TOR.txt yang sebelumnya merupakan huruf kapital semuanya
+8. Menambahkan Kelas pada 0001-extra201.txt.asc
+9. Menambahkan nama, kelas, npm, serta menuliskan nilai saya yang mau diupgrade
+10. Menghapus 0002-TOR.txt karena tidak sengaja ke push.
 
 Rencana yang akan dikerjakan
 =============================
