@@ -1,18 +1,13 @@
+REV03 THU Jul 23  05:35:12 WITA 2020
 REV02 WED Jul 22  05:43:01 WITA 2020
 REV01 TUE Jul 21  03:18:01 WITA 2020
 ==================================
 
 Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 =============================================================
-1. Memahami referensi https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+1. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt
 
-2. Mencicil pengerjaan 0003-pelaksanaan-OS201.txt
-
-3. Membuat revisi terhadap update:  
-   - 0001-extra201.txt.asc
-   - 0002-TOR.txt.asc
-
-4. Melakukan pemeriksaan terhadap hasil enkripsi
+2. Mencicil pengerjaan 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
@@ -20,7 +15,7 @@ Rencana yang akan dikerjakan
 
 2. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt sesuai ketentuan
 
-3. Membuat berkas 0004-catatan-OS201.txt yang berisi penilaian terhadap referensi dari sudut pandang peserta mata kuliah OS
+3. Melanjutkan berkas 0004-catatan-OS201.txt yang berisi penilaian terhadap referensi dari sudut pandang peserta mata kuliah OS
 
 4. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
