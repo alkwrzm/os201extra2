@@ -1,3 +1,4 @@
+REV03 WED Jul 22 21:08:35 WIB 2020
 REV02 WED Jul 22 16:44:37 WIB 2020
 REV01 WED Jul 22 14:33:15 WIB 2020
 ==================================
@@ -17,6 +18,8 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 8. Menambahkan Kelas pada 0001-extra201.txt.asc
 9. Menambahkan nama, kelas, npm, serta menuliskan nilai saya yang mau diupgrade
 10. Menghapus 0002-TOR.txt karena tidak sengaja ke push.
+11. Membuat berkas 0003-pelaksanaan-OS201.txt
+12. Membuat berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
@@ -37,4 +40,6 @@ Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 0000-mypub.txt 
 0001-extra201.txt.asc 
 0002-TOR.txt.asc
+0003-pelaksanaan-OS201.txt
+0004-catatan-OS201.txt
 Link : https://github.com/PakDengklek/os201/tree/master/os201extra2
