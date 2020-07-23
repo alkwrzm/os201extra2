@@ -1,6 +1,8 @@
 REV01 MON Jul 20 21:28:00 WIB 2020
 REV02 TUE Jul 20 21:28:00 WIB 2020
 REV03 WED Jul 22 10:58:00 WIB 2020
+REV04 THU Jul 23 19:34:00 WIB 2020
+
 
 =============================================================================================================================
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
@@ -12,6 +14,8 @@ A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
 6. Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG
 berapa, diupgrade ke nilai berapa.
 7. Mulai mengerjakan berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+6. Mengupdate berkas 0002-TOR.txt untuk menambahkan rencana pelaksanaan tugas. 
+
 =============================================================================================================================
 B. Rencana yang akan dikerjakan
 1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS pada semester 4 ini 
