@@ -1,7 +1,9 @@
+REV03 THU Jul 23 13:15:00 WIB 2020
 REV02 TUE Jul 21 11:49:00 WIB 2020
 REV01 MON Jul 20 20:06:00 WIB 2020
 ==================================
 
+========================================================================================================================
 A) apa yang dikerjakan sejak penulisan memo sebelumnya
 1. Saya memilih pilihan tugas 2 yaitu  post mortem analysis atas pelaksanaan UAS lalu. Tugas ini 
 bertujuan sebagai masukan  untuk penyelenggaraan UTS/UAS semester depan
@@ -23,7 +25,12 @@ memo.txt (MEMO) di "ihsanazizi14/memo.txt"
 
 8. Merevisi berkas 0001-extra201.txt.asc dan 0002-TOR.txt.asc
 
+9. Memulai mengerjakan berkas 0003-pelaksanaan-OS201.txt yaitu mencari perbandingan UAS OS dengan UAS lainnya
 
+10. Memulai mengerjakan berkas 0004-catatan-OS201.txt yaitu mencari catatan tambahan dan juga penjelasan tentang GnuPG
+
+
+========================================================================================================================
 B) rencana yang akan dikerjakan
 1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
 
@@ -34,11 +41,15 @@ B) rencana yang akan dikerjakan
 4. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
 
+========================================================================================================================
 C) Koordinasi dengan anggota lainnya 
 1. Berkoordinasi dengan mahasiswa lainnya dalam memahami soal dan ketentuan-ketentuan yang diberikan pada tugas extra ini
 
 2. Membuat survey untuk menampung pandangan mahasiswa terhadap pelaksanaan UAS kemarin.
 
+3. Berkoordinasi dengan mahasiswa lainnya mengenai perencanaan pengerjaan tugas untuk 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
+
+========================================================================================================================
 D) Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk
 https://github.com/ihsanazizi14/os201/tree/master/os201extra2
