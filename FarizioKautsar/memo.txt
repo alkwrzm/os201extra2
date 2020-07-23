@@ -1,10 +1,12 @@
-REV00 MON Jul 20 23:56:00 WIB 2020
+REV00 SAT Jul 20 23:56:00 WIB 2020
 REV01 MON Jul 22 16:15:40 WIB 2020
+REV02 TUE Jul 23 16:03:35 WIB 2020
 ==================================
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya
 1. Merevisi 0001-extra201.txt.asc dengan menambahkan kelas
 2. Membuat berkas 0003-pelaksanaan-OS201.txt pada GitHub pribadi
+3. Memulai membuat berkas 0004-catatan-OS201.txt pada GitHub pribadi
 
 B. Rencana yang akan dikerjakan
 1. Update MEMO
