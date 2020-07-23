@@ -1,3 +1,5 @@
+REV03 WED Jul 22 11:00:00 WIB 2020
+REV02 TUE Jul 21 15:01:00 WIB 2020
 REV01 MON Jul 20 21:30:00 WIB 2020
 ==================================
 
@@ -8,6 +10,9 @@ A) Apa yang dikerjakan sejak penulisan memo sebelumnya
 2) Memilih mengerjakan Tugas 2
 3) Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas
 4) Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+5) Melakukan perubahan nama folder dari "extra201/" menjadi "os201extra2/" pada github pribadi
+6) Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG dan nilai yang di UPGRADE.
+7) Mulai mencicil Tugas 2 untuk 0003-pelaksanaan-OS201.txt 
 
 B) Rencana yang akan dikerjakan
 1) Update MEMO
@@ -21,4 +26,6 @@ C) Koordinasi dengan anggota lainnya
 2) Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
 
 D) Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
-1) 0002-TOR.txt.asc : https://github.com/aznaajeng/os201/tree/master/extra201
+1) 0000-mypub.txt : https://github.com/aznaajeng/os201/tree/master/os201extra2
+2) 0001-extra201.txt.asc  : https://github.com/aznaajeng/os201/tree/master/os201extra2
+3) 0002-TOR.txt.asc : https://github.com/aznaajeng/os201/tree/master/os201extra2

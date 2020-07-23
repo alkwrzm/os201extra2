@@ -1,1 +1,40 @@
+REV02 WED Jul 22 16:44:37 WIB 2020
+REV01 WED Jul 22 14:33:15 WIB 2020
+==================================
 
+Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
+=============================================================
+1. Memilih 1 dari beberapa pilihan tugas yang disediakan. Saya memilih tugas 2 yaitu Post Mortem analysis atas pelaksanaan UAS lalu.
+2. Memiliki akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas memo.txt (MEMO) di "PakDengklek/memo.txt"
+3. Membuat folder "os201extra2/" dalam os201 (pribadi)
+4. Membuat berkas pada "os201extra2/" dalam os201 (pribadi) : 
+   a. 0000-mypub.txt
+   b. 0001-extra201.txt.asc
+   c. 0002-TOR.txt.asc
+5. Mulai mencari perbandingan UAS OS dengan UAS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
+6. Mulai mencari catatan tambahan untuk pelaksanaan UAS OS untuk pengisian berkas 0004-catatan-OS201.txt
+7. Mengganti tulisan pada 0002-TOR.txt yang sebelumnya merupakan huruf kapital semuanya
+8. Menambahkan Kelas pada 0001-extra201.txt.asc
+9. Menambahkan nama, kelas, npm, serta menuliskan nilai saya yang mau diupgrade
+10. Menghapus 0002-TOR.txt karena tidak sengaja ke push.
+
+Rencana yang akan dikerjakan
+=============================
+1. Update MEMO secara berkala setiap harinya
+2. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
+3. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+4. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
+5. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+Koordinasi dengan anggota lainnya
+=================================
+1. Membuat survei untuk menampung pandangan mahasiswa terhadap pelaksanaan UAS.
+2. Menyebarkan form survei untuk diisi oleh para mahasiswa yang mengikuti UAS OS.
+3. Mengkomunikasikan dan merencanakan pengerjaan tugas kelompok bersama mahasiswa lain.
+
+Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
+===========================================================================
+0000-mypub.txt 
+0001-extra201.txt.asc 
+0002-TOR.txt.asc
+Link : https://github.com/PakDengklek/os201/tree/master/os201extra2

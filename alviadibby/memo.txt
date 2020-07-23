@@ -1,19 +1,44 @@
+REV04 WED Jul 22 23:16:00 WIB 2020
+REV03 WED Jul 22 23:03:00 WIB 2020
+REV02 TUE Jul 21 23:36:00 WIB 2020
 REV01 MON Jul 20 22:59:00 WIB 2020
 ==================================
 
-1) Yang dikerjakan sejak penulisan memo sebelumnya:
-1a) Membuat folder os201extra2 pada github pribadi
-1b) Memasukkan 0000-mypub.txt ke dalam folder os201extra2
-1c) Membuat berkas 0001-extra201.txt.asc berisi nama/npm/akunGitHub, pengajuan tugas, pengajuan nilai I, dan pernyataan paham bahwa nilai akan tetap I apabila mangkrak.
-1d) Membuat berkas 0002-TOR.txt.asc berisi proposal (TOR) untuk tugas 2 (POSTMORTEM)
-1e) Membahas ketentuan dan pengerjaan tugas bersama peserta lainnya
+Yang dikerjakan sejak penulisan memo sebelumnya:
+================================================
+1) Membuat folder os201extra2 pada github pribadi
+2) Memasukkan 0000-mypub.txt ke dalam folder os201extra2
+3) Membuat berkas 0001-extra201.txt.asc berisi nama/npm/akunGitHub, pengajuan tugas, pengajuan nilai I, dan pernyataan paham bahwa nilai akan tetap I apabila mangkrak.
+4) Membuat berkas 0002-TOR.txt.asc berisi proposal (TOR) untuk tugas 2 (POSTMORTEM)
+5) Membahas ketentuan dan pengerjaan tugas bersama peserta lainnya
+6) Menambahkan informasi kelas pada berkas 0001-extra201.txt.asc
+7) Menambahkan nama/kelas/npm/akunGitHub, nilai saat ini, dan nilai tujuan pada berkas 0002-TOR.txt.asc
+8) Mengumpulkan data melalui survei mengenai pelaksanaan UAS online ke peserta-peserta UAS dari berbagai kelas (A/B/C)
+9) Menyimpulkan data hasil survei
+10) Membuat draft kasar untuk berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
-2) Rencana yang akan dikerjakan:
-2a) Menunggu konfirmasi TOR dan detail tugas 2
-2b) Membahas pengerjaan tugas bersama peserta lainnya
-2c) Mencicil pengerjaan berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
-2d) Mencicil pengerjaan berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
+Rencana yang akan dikerjakan:
+=============================
+1) Menunggu konfirmasi TOR dan detail tugas 2
+2) Membahas pengerjaan tugas bersama peserta lainnya
+3) Mencicil pengerjaan berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
+4) Mencicil pengerjaan berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
+5) Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+6) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
-3) Koordinasi dengan anggota lainnya:
-3a) Telah dibuat multiperson chat yang berisi peserta tugas extra OS
-3b) Multiperson chat telah aktif membahas ketentuan dan tugas yang diberikan
+Koordinasi dengan anggota lainnya:
+==================================
+1) Telah dibuat multiperson chat yang berisi peserta tugas extra OS
+2) Multiperson chat telah aktif membahas ketentuan dan tugas yang diberikan
+3) Membuat survei mengenai pelaksanaan UAS online OS
+4) Menyebarluaskan survei yang telah dibuat
+
+Hasil yang telah dicapai:
+=========================
+1) Berkas 0000-mypub.txt
+   https://github.com/alviadibby/os201/blob/master/os201extra2/0000-mypub.txt
+2) Berkas 0001-extra201.txt.asc 
+   https://github.com/alviadibby/os201/blob/master/os201extra2/0001-extra201.txt.asc
+3) Berkas 0002-TOR.txt.asc
+   https://github.com/alviadibby/os201/blob/master/os201extra2/0002-TOR.txt.asc
+
