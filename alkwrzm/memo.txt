@@ -1,3 +1,4 @@
+REV04 THU Jul 23 20:34:00 WIB 2020
 REV03 WED Jul 22 19:50:00 WIB 2020
 REV02 TUE Jul 21 23:40:00 WIB 2020
 REV01 MON Jul 20 22:12:00 WIB 2020
@@ -15,6 +16,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 5) Mengupdate berkas 0001-extra201.txt dengan menambahkan asal kelas
 6) Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG dan nilai yang di UPGRADE
 7) Mulai mencicil Tugas 2 untuk 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+8) Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
