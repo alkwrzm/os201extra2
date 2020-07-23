@@ -1,4 +1,5 @@
-# REV02 Tue Jul  22 14:22:38 WIB 2020
+# REV04 Tue Jul  23 18:21:43 WIB 2020
+# REV03 Tue Jul  22 14:22:38 WIB 2020
 # REV02 Tue Jul  21 16:10:13 WIB 2020
 # REV01 Mon Jul  20 14:23:45 WIB 2020
 
@@ -18,15 +19,18 @@ a. Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 7) Melakukan update memo.txt (update 2)
 8) Memulai mengerjakan berkas 0004-catatan-OS201.txt
 9) Melakukan update memo.txt (update 3)
+10) Merivisi berkas 0003-pelaksanaan-OS201.txt
+11) Membuat sudut pandang mahasiswa dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+    pada berkas 0004-catatan-OS201.txt
+12) Melakukan update memo.txt (update 4)
 
 b. Rencana yang Akan Dikerjakan
 ===============================
-1) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
+1) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt
 2) Mengupdate berkas 0003-pelaksanaan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
 3) Mengupdate berkas 0002-TOR.txt.asc (jika terdapat hal - hal yang perlu di revisi)
-4) Membuat tugas post mortem analysis
-5) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
-6) Mengupdate MEMO 
+4) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+5) Mengupdate MEMO 
 
 c. Koordinasi dengan Anggota Lainnya 
 ====================================
