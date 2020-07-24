@@ -1,6 +1,7 @@
 REV00 SAT Jul 20 23:56:00 WIB 2020
 REV01 MON Jul 22 16:15:40 WIB 2020
 REV02 TUE Jul 23 16:03:35 WIB 2020
+REV03 TUE Jul 24 18:33:09 WIB 2020
 ==================================
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya
@@ -17,6 +18,7 @@ B. Rencana yang akan dikerjakan
 C. Koordinasi dengan anggota lainnya
 1. Menampung pandangan mahasiswa terhadap pelaksanaan UAS melalui survei
 2. Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+3. Melakukan koordinasi mengenai pengerjaan tugas untuk 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
 D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 1. 0001-extra201.txt.asc : https://github.com/FarizioKautsar/os201/tree/master/os201extra2/0001-extra201.txt.asc
