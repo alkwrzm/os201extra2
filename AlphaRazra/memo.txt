@@ -1,3 +1,4 @@
+REV03 THU Jul 23 22:33:07 WIB 2020
 REV02 WED Jul 22 13:38:15 WIB 2020
 REV01 MON Jul 20 23:45:17 WIB 2020
 ==================================
@@ -11,11 +12,13 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 5. Mengupdate berkas 0001-extra201.txt dan 0002-TOR.txt dengan terdapat kelas pada header
 6. Mulai mencari perbandingan UAS OS dengan UAS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
 7. Mulai mencari catatan tambahan untuk pelaksanaan UAS OS untuk pengisian berkas 0004-catatan-OS201.txt
+8. Melakukan revisi terhadap berkas 0002-TOR.txt dengan memberikan penjelasan bahwa TUGAS jenis 2 adalah mengerjakan file 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+9. Mencari perbandingan mengenai UTS OS dengan UTS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
 1. Update MEMO secara berkala setiap harinya
-2. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
+2. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt dan push berkas tersebut ke repo pribadi
 3. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 4. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
 5. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)

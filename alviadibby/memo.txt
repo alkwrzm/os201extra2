@@ -1,3 +1,5 @@
+REV06 FRI Jul 24 21:30:00 WIB 2020
+REV05 THU Jul 23 22:31:00 WIB 2020
 REV04 WED Jul 22 23:16:00 WIB 2020
 REV03 WED Jul 22 23:03:00 WIB 2020
 REV02 TUE Jul 21 23:36:00 WIB 2020
@@ -16,6 +18,10 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 8) Mengumpulkan data melalui survei mengenai pelaksanaan UAS online ke peserta-peserta UAS dari berbagai kelas (A/B/C)
 9) Menyimpulkan data hasil survei
 10) Membuat draft kasar untuk berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+11) Melanjutkan pengerjaan berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+12) Melakukan push REV01 berkas 0003-pelaksanaan-OS201.txt
+13) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
+14) Membaca dan memahami https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 
 Rencana yang akan dikerjakan:
 =============================
@@ -32,6 +38,7 @@ Koordinasi dengan anggota lainnya:
 2) Multiperson chat telah aktif membahas ketentuan dan tugas yang diberikan
 3) Membuat survei mengenai pelaksanaan UAS online OS
 4) Menyebarluaskan survei yang telah dibuat
+5) Berdiskusi tentang hasil survei yang telah disebar
 
 Hasil yang telah dicapai:
 =========================
@@ -41,4 +48,5 @@ Hasil yang telah dicapai:
    https://github.com/alviadibby/os201/blob/master/os201extra2/0001-extra201.txt.asc
 3) Berkas 0002-TOR.txt.asc
    https://github.com/alviadibby/os201/blob/master/os201extra2/0002-TOR.txt.asc
-
+4) Berkas 0003-pelaksanaan-OS201.txt
+   https://github.com/alviadibby/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt

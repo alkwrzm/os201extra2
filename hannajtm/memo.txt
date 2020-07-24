@@ -1,3 +1,4 @@
+REV07 Fri Jul 24 17:52:00 WIB 2020
 REV06 Thu Jul 23 15:40:00 WIB 2020
 REV05 Tue Jul 22 18:37:00 WIB 2020
 REV04 Tue Jul 21 18:22:00 WIB 2020
@@ -47,6 +48,11 @@ memo.txt (MEMO) di "hannajtm/memo.txt"
 
 17. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
 
+18. Membuat berkas 0004-catatan-OS201.txt
+
+19. Mengisi berkas 0004-catatan-OS201.txt dengan catatan tambahan untuk pelaksanaan UAS OS tahap persiapan dan tahap 1
+
+
 b) rencana yang akan dikerjakan
 ===============================
 1. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
@@ -78,4 +84,6 @@ d) Hasil yang dicapai terlampir dalam https://github.com/hannajtm/os201/tree/mas
 3. 0002-TOR.txt.asc
 
 4. 0003-pelaksanaan-OS201.txt
+
+5. 0004-catatan-OS201.txt (belum selesai)
 
