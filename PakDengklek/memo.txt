@@ -1,4 +1,5 @@
-REV03 WED Jul 22 21:08:35 WIB 2020
+REV04 WED Jul 24 21:10:45 WIB 2020
+REV03 WED Jul 23 21:08:35 WIB 2020
 REV02 WED Jul 22 16:44:37 WIB 2020
 REV01 WED Jul 22 14:33:15 WIB 2020
 ==================================
@@ -20,6 +21,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 10. Menghapus 0002-TOR.txt karena tidak sengaja ke push.
 11. Membuat berkas 0003-pelaksanaan-OS201.txt
 12. Membuat berkas 0004-catatan-OS201.txt
+13. Melengkapi berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
