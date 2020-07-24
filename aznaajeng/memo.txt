@@ -8,13 +8,15 @@ A) Apa yang dikerjakan sejak penulisan memo sebelumnya
 1) Membuat berkas pada "os201extra2/" dalam os201 (pribadi) :
 0000-mypub.txt 
 0001-extra201.txt.asc 
-2) Memilih mengerjakan Tugas 2
-3) Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas
-4) Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
-5) Melakukan perubahan nama folder dari "extra201/" menjadi "os201extra2/" pada github pribadi
-6) Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG dan nilai yang di UPGRADE.
-7) Mulai mencicil Tugas 2 untuk 0003-pelaksanaan-OS201.txt 
-8) Mengupdate berkas 0002-TOR.txt untuk menambahkan rencana pelaksanaan tugas
+2)  Memilih mengerjakan Tugas 2
+3)  Membuat berkas 0002-TOR.txt.asc yang berisi proposal (TOR) rencana pelaksanaan tugas
+4)  Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+5)  Melakukan perubahan nama folder dari "extra201/" menjadi "os201extra2/" pada github pribadi
+6)  Mengupdate berkas 0002-TOR.txt untuk menambahkan pada bagian HASIL, nilai saya SEKARANG dan nilai yang di UPGRADE.
+7)  Mulai mencicil Tugas 2 untuk 0003-pelaksanaan-OS201.txt 
+8)  Mengupdate berkas 0002-TOR.txt untuk menambahkan rencana pelaksanaan tugas
+9)  Mulai mencicil Tugas 2 untuk 0004-catatan-OS201.txt
+10) Sudah membuat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini, membandingkan pelaksanaan pengajaran sebelum dan sesudah UTS, dan membandingkan pelaksanaan UTS OS dengan UTS lainnya untuk isi dari berkas 0003-pelaksanaan-OS201.txt namun belum menaruh pada github pribadi/os201extra2
 
 
 B) Rencana yang akan dikerjakan
