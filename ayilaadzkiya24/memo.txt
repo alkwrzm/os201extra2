@@ -1,3 +1,4 @@
+REV05 FRI Jul 24 22:31:00 WIB 2020
 REV04 THU Jul 23 22:01:00 WIB 2020
 REV03 WED Jul 22 21:36:00 WIB 2020
 REV02 TUE Jul 21 21:07:00 WIB 2020
@@ -12,17 +13,18 @@ a. Apa yang sudah dilakukan setelah penulisan memo sebelumnya
 0002-TOR.txt.asc
 2) Menambahkan kelas pada berkas 0001-extra201.txt.asc
 3) Menambahkan kelas, nilai sekarang dan nilai pada saat diupdate pada bagian HASIL di berkas 0002-TOR.txt.asc
-4) Menyicil pengerjakan berkas 0003-pelaksanaan-OS201.txt
-5) Menyicil pengerjaan berkas 0004-catatan-OS201.txt
-6) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
+4) Menyicil pengerjaan berkas 0004-catatan-OS201.txt
+5) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
+6) Melengkapi kembali pengerjaan berkas 0003-pelaksanaan-OS201.txt
 7) Melakukan update pada memo.txt
 
 b. Rencana yang akan dikerjakan
 ===============================
 1) Melakukan update pada memo.txt untuk hari berikutnya
 2) Melanjutkan untuk pengerjaan berkas 0003-pelaksanaan-OS201.txt mengenai pengalaman mengikuti kuliah OS.
-3) Melanjutkan untuk pengerjaan berkas 0004-catatan-OS201.txt mengenai komentar / opini atas pelaksanaan kuliah OS dan catatan perkuliahan OS.
-4) Membuat SHA1SUM dan SHA1SUM.asc untuk setiap berkas yang ada pada "os201extra2/" dalam os201 (pribadi)
+3) Melakukan push pada berkas 0003-pelaksanaan-OS201.txt dalam os201 pribadi 
+4) Melanjutkan untuk pengerjaan berkas 0004-catatan-OS201.txt mengenai komentar / opini atas pelaksanaan kuliah OS dan catatan perkuliahan OS.
+5) Membuat SHA1SUM dan SHA1SUM.asc untuk setiap berkas yang ada pada "os201extra2/" dalam os201 (pribadi)
 
 c. Koordinasi dengan anggota lainnya
 ====================================
