@@ -1,3 +1,4 @@
+REV06 SAT Jul 25 21:40:00 WIB 2020
 REV05 FRI Jul 24 21:20:00 WIB 2020
 REV04 THU Jul 23 20:34:00 WIB 2020
 REV03 WED Jul 22 19:50:00 WIB 2020
@@ -19,6 +20,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 7) Mulai mencicil Tugas 2 untuk 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 8) Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt
 9) Memeriksa berkas 0003-pelaksanaan-OS201.txt dan melanjutkan pengerjaan 0004-catatan-OS201.txt
+10) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
