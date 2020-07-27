@@ -38,4 +38,6 @@ Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 
 - 0002-TOR.txt.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/0002-TOR.txt.asc)
 
+- 0003-pelaksanaan-OS201.txt (https://github.com/adzshaf/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt)
+
 URL: https://github.com/adzshaf/os201/tree/master/os201extra2
