@@ -1,3 +1,4 @@
+REV04 FRI Jul 24 22:39:10 WIB 2020
 REV03 THU Jul 23 22:33:07 WIB 2020
 REV02 WED Jul 22 13:38:15 WIB 2020
 REV01 MON Jul 20 23:45:17 WIB 2020
@@ -14,6 +15,8 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 7. Mulai mencari catatan tambahan untuk pelaksanaan UAS OS untuk pengisian berkas 0004-catatan-OS201.txt
 8. Melakukan revisi terhadap berkas 0002-TOR.txt dengan memberikan penjelasan bahwa TUGAS jenis 2 adalah mengerjakan file 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 9. Mencari perbandingan mengenai UTS OS dengan UTS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
+10. Menulis catatan singkat mengenai pelaksaan perkuliahan OS pada file 0003-pelaksanaan-OS201.txt
+11. Melakukan push pertama kali untuk file 0003-pelaksanaan-OS201.txt 
 
 Rencana yang akan dikerjakan
 =============================
@@ -34,4 +37,5 @@ Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 0000-mypub.txt 
 0001-extra201.txt.asc 
 0002-TOR.txt.asc
+0003-pelaksanaan-OS201.txt
 Link : https://github.com/AlphaRazra/os201/tree/master/os201extra2

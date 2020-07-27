@@ -1,16 +1,16 @@
+REV06 MON Jul 27 22:38:30 WIB 2020
+REV05 FRI Jul 24 20:42:25 WIB 2020
 REV04 THU Jul 23 14:11:00 WIB 2020
 REV03 THU Jul 23 13:15:00 WIB 2020
 REV02 TUE Jul 21 11:49:00 WIB 2020
 REV01 MON Jul 20 20:06:00 WIB 2020
 ==================================
 
-========================================================================================================================
 A) apa yang dikerjakan sejak penulisan memo sebelumnya
-1. Saya memilih pilihan tugas 2 yaitu  post mortem analysis atas pelaksanaan UAS lalu. Tugas ini 
-bertujuan sebagai masukan  untuk penyelenggaraan UTS/UAS semester depan
+========================================================================================================================
+1. Saya memilih pilihan tugas 2 yaitu post mortem analysis atas pelaksanaan UAS lalu. Tugas ini bertujuan sebagai masukan  untuk penyelenggaraan UTS/UAS semester depan
 
-2. Meminta akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas
-memo.txt (MEMO) di "ihsanazizi14/memo.txt"
+2. Meminta akses ke proyek https://github.com/alkwrzm/os201extra2 dan membuat berkas memo.txt (MEMO) di "ihsanazizi14/memo.txt"
 
 3. Membuat folder "os201extra2/" dalam os201 (pribadi)
 
@@ -24,27 +24,33 @@ memo.txt (MEMO) di "ihsanazizi14/memo.txt"
 
 7. Merubah nama folder dalam os201 (pribadi) menjadi os201extra2/
 
-8. Merevisi berkas 0001-extra201.txt.asc dan 0002-TOR.txt.asc
+8. Merevisi berkas 0001-extra201.txt.asc (mengubah kelas pada format penamaan) dan 0002-TOR.txt.asc (menambahkan nilai saat ini dan ingin di-upgrade ke nilai berapa)
 
-9. Memulai mengerjakan berkas 0003-pelaksanaan-OS201.txt yaitu mencari perbandingan UAS OS dengan UAS lainnya
+9. Membuat perbandingan UAS OS dengan UAS lainnya yang nantinya akan ditulis dalam berkas 0003-pelaksanaan-OS201.txt
 
-10. Memulai mengerjakan berkas 0004-catatan-OS201.txt yaitu mencari catatan tambahan dan juga penjelasan tentang GnuPG
+10. Memulai mencari catatan tambahan dan juga penjelasan tentang GnuPG yang nantinya akan ditulis dalam berkas 0004-catatan-OS201.txt
 
-11. Merevisi isi dari 0002-TOR.txt
+11. Merevisi isi dari 0002-TOR.txt pada bagian rencana pengerjaan, yaitu menyamakan antara mengerjakan tugas 2 dengan mengerjakan berkas 0003-pelaksanaan-OS201.txt & 0004-catatan-OS201.txt
 
-========================================================================================================================
+12. Memulai membuat berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt, kemudian mengisi nya sesuai dengan data-data yang sudah dibuat pada docs bersama (masih di local dan belum di-push ke github)
+
+13. Menyelesaikan berkas 0003-pelaksanaan-OS201.txt dan mem-push nya dalam repo github pribadi
+
 B) rencana yang akan dikerjakan
+========================================================================================================================
 1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
 
 2. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 
 3. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
 
-4. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+4. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+5. Mengupdate memo.txt setiap harinya.
 
 
+C) Koordinasi dengan anggota lainnya
 ========================================================================================================================
-C) Koordinasi dengan anggota lainnya 
 1. Berkoordinasi dengan mahasiswa lainnya dalam memahami soal dan ketentuan-ketentuan yang diberikan pada tugas extra ini
 
 2. Membuat survey untuk menampung pandangan mahasiswa terhadap pelaksanaan UAS kemarin.
@@ -52,6 +58,6 @@ C) Koordinasi dengan anggota lainnya
 3. Berkoordinasi dengan mahasiswa lainnya mengenai perencanaan pengerjaan tugas untuk 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
 
-========================================================================================================================
 D) Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk
+========================================================================================================================
 https://github.com/ihsanazizi14/os201/tree/master/os201extra2

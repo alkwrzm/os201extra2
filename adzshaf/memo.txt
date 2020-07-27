@@ -1,3 +1,4 @@
+REV05 MON Jul 27  23:22:01 WITA 2020
 REV04 FRI Jul 24  06:24:35 WITA 2020
 REV03 THU Jul 23  05:35:12 WITA 2020
 REV02 WED Jul 22  05:43:01 WITA 2020
@@ -9,8 +10,6 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 1. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt
 
 2. Mencicil pengerjaan 0004-catatan-OS201.txt
-
-3. Mengupdate 0002-TOR.txt.asc
 
 Rencana yang akan dikerjakan
 =============================
@@ -38,5 +37,7 @@ Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 - 0001-extra201.txt.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/0001-extra201.txt.asc)
 
 - 0002-TOR.txt.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/0002-TOR.txt.asc)
+
+- 0003-pelaksanaan-OS201.txt (https://github.com/adzshaf/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt)
 
 URL: https://github.com/adzshaf/os201/tree/master/os201extra2
