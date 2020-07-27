@@ -1,3 +1,4 @@
+REV06 MON JUl 27 19:59:00 WIB 2020
 REV05 FRI Jul 24 22:31:00 WIB 2020
 REV04 THU Jul 23 22:01:00 WIB 2020
 REV03 WED Jul 22 21:36:00 WIB 2020
@@ -15,16 +16,14 @@ a. Apa yang sudah dilakukan setelah penulisan memo sebelumnya
 3) Menambahkan kelas, nilai sekarang dan nilai pada saat diupdate pada bagian HASIL di berkas 0002-TOR.txt.asc
 4) Menyicil pengerjaan berkas 0004-catatan-OS201.txt
 5) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
-6) Melengkapi kembali pengerjaan berkas 0003-pelaksanaan-OS201.txt
+6) Melakukan push untuk pengerjaan berkas 0003-pelaksanaan-OS201.txt dalam os201 pribadi
 7) Melakukan update pada memo.txt
 
 b. Rencana yang akan dikerjakan
 ===============================
 1) Melakukan update pada memo.txt untuk hari berikutnya
-2) Melanjutkan untuk pengerjaan berkas 0003-pelaksanaan-OS201.txt mengenai pengalaman mengikuti kuliah OS.
-3) Melakukan push pada berkas 0003-pelaksanaan-OS201.txt dalam os201 pribadi 
-4) Melanjutkan untuk pengerjaan berkas 0004-catatan-OS201.txt mengenai komentar / opini atas pelaksanaan kuliah OS dan catatan perkuliahan OS.
-5) Membuat SHA1SUM dan SHA1SUM.asc untuk setiap berkas yang ada pada "os201extra2/" dalam os201 (pribadi)
+2) Melanjutkan untuk pengerjaan berkas 0004-catatan-OS201.txt mengenai komentar / opini atas pelaksanaan kuliah OS dan catatan perkuliahan OS.
+3) Membuat SHA1SUM dan SHA1SUM.asc untuk setiap berkas yang ada pada "os201extra2/" dalam os201 (pribadi)
 
 c. Koordinasi dengan anggota lainnya
 ====================================
@@ -36,5 +35,6 @@ d. Hasil tugas yang telah dicapai
 Folder "os201extra2/" dalam os201 pribadi yang berisi:
 0000-mypub.txt 
 0001-extra201.txt.asc (revisi 1)
-0002-TOR.txt.asc (revisi 1)
+0002-TOR.txt.asc (revisi 2)
+0003-pelaksanaan-OS201.txt (revisi 1)
 Link : https://github.com/ayilaadzkiya24/os201/tree/master/os201extra2
