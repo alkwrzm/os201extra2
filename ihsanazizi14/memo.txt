@@ -1,3 +1,4 @@
+REV06 MON Jul 27 22:38:30 WIB 2020
 REV05 FRI Jul 24 20:42:25 WIB 2020
 REV04 THU Jul 23 14:11:00 WIB 2020
 REV03 THU Jul 23 13:15:00 WIB 2020
@@ -31,8 +32,9 @@ A) apa yang dikerjakan sejak penulisan memo sebelumnya
 
 11. Merevisi isi dari 0002-TOR.txt pada bagian rencana pengerjaan, yaitu menyamakan antara mengerjakan tugas 2 dengan mengerjakan berkas 0003-pelaksanaan-OS201.txt & 0004-catatan-OS201.txt
 
-12. Memulai membuat berkas 0003-pelaksanaan-OS201.txt dan mengisi nya sesuai dengan data-data yang sudah dibuat pada docs bersama (akan tetapi masih di local dan belum di-push ke github)
+12. Memulai membuat berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt, kemudian mengisi nya sesuai dengan data-data yang sudah dibuat pada docs bersama (masih di local dan belum di-push ke github)
 
+13. Menyelesaikan berkas 0003-pelaksanaan-OS201.txt dan mem-push nya dalam repo github pribadi
 
 B) rencana yang akan dikerjakan
 ========================================================================================================================
