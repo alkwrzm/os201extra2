@@ -1,6 +1,7 @@
-# REV05 Tue Jul  24 16:18:03 WIB 2020
-# REV04 Tue Jul  23 18:21:43 WIB 2020
-# REV03 Tue Jul  22 14:22:38 WIB 2020
+# REV06 Mon Jul  27 19:18:33 WIB 2020
+# REV05 Fri Jul  24 16:18:03 WIB 2020
+# REV04 Thu Jul  23 18:21:43 WIB 2020
+# REV03 Wed Jul  22 14:22:38 WIB 2020
 # REV02 Tue Jul  21 16:10:13 WIB 2020
 # REV01 Mon Jul  20 14:23:45 WIB 2020
 
@@ -37,6 +38,11 @@ a. Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 14a) Menambahkan sudut pandang perserta mengenai scripting, GNUPG, SHA1SUM, pembentukkan kelompok, SCELE, 
      persiapan UAS, dan Tahap 1-5
 15)  Melakukan update memo.txt (update 5)
+16)  Melakukan update pada berkas 0004-catatan-OS201.txt :
+16a) Menambahkan problem, youtube, dan tempat belajar di luar git
+17)  Merevisi tanggal pada file memo.txt, 0004-catatan-OS201.txt, dan 0003-pelaksanaan-OS201.txt
+18)  Melakukan update rencana pelaksanaan tugas pada berkas  0002-TOR.txt.asc
+19)  Melakukan update memo.txt (update 6)
 
 b. Rencana yang Akan Dikerjakan
 ===============================
