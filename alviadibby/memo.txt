@@ -1,3 +1,4 @@
+REV07 MON Jul 27 23:56:00 WIB 2020
 REV06 FRI Jul 24 21:30:00 WIB 2020
 REV05 THU Jul 23 22:31:00 WIB 2020
 REV04 WED Jul 22 23:16:00 WIB 2020
@@ -22,15 +23,18 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 12) Melakukan push REV01 berkas 0003-pelaksanaan-OS201.txt
 13) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
 14) Membaca dan memahami https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+15) Mengumpulkan pendapat untuk keperluan berkas 0004-catatan-OS201.txt
+16) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan:
 =============================
 1) Menunggu konfirmasi TOR dan detail tugas 2
-2) Membahas pengerjaan tugas bersama peserta lainnya
-3) Mencicil pengerjaan berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
-4) Mencicil pengerjaan berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
-5) Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-6) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+2) Melakukan update terhadap memo.txt setiap hari kerja
+3) Membahas pengerjaan tugas bersama peserta lainnya
+4) Mencicil pengerjaan berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
+5) Mencicil pengerjaan berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
+6) Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+7) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
 Koordinasi dengan anggota lainnya:
 ==================================
