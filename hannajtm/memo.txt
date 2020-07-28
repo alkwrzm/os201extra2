@@ -1,3 +1,4 @@
+REV09 Tue Jul 28 15:42:00 WIB 2020
 REV08 Mon Jul 27 18:35:00 WIB 2020
 REV07 Fri Jul 24 17:52:00 WIB 2020
 REV06 Thu Jul 23 15:40:00 WIB 2020
@@ -54,6 +55,9 @@ memo.txt (MEMO) di "hannajtm/memo.txt"
 19. Mengisi berkas 0004-catatan-OS201.txt dengan catatan tambahan untuk pelaksanaan UAS OS tahap persiapan dan tahap 1
 
 20. Mengisi berkas 0004-catatan-OS201.txt dengan catatan tambahan untuk pelaksanaan UAS OS tahap 2 dan 3
+
+21. Mengisi berkas 0004-catatan-OS201.txt dengan catatan tambahan untuk pelaksanaan UAS OS tahap 4 dan 5, serta penjelasan terkait scripting, FUSE, Git, GitHub, GitHub Page, GnuPG, SHA1SUM, dan SHA1SUM.asc
+
 
 b) rencana yang akan dikerjakan
 ===============================
