@@ -44,5 +44,5 @@ Koordinasi dengan anggota lainnya
 Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 ===========================================================================
 1) 0000-mypub.txt : https://github.com/alkwrzm/os201/blob/master/os201extra2/0000-mypub.txt
-2) 0001-extra201.txt.asc  : https://github.com/alkwrzm/os201/blob/master/os201extra2/0001-extra201.txt.asc
+2) 0001-extra201.txt.asc : https://github.com/alkwrzm/os201/blob/master/os201extra2/0001-extra201.txt.asc
 3) 0002-TOR.txt.asc : https://github.com/alkwrzm/os201/blob/master/os201extra2/0002-TOR.txt.asc
