@@ -1,3 +1,4 @@
+REV08 TUE Jul 28 23:08:00 WIB 2020
 REV07 MON Jul 27 23:56:00 WIB 2020
 REV06 FRI Jul 24 21:30:00 WIB 2020
 REV05 THU Jul 23 22:31:00 WIB 2020
@@ -25,6 +26,7 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 14) Membaca dan memahami https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 15) Mengumpulkan pendapat untuk keperluan berkas 0004-catatan-OS201.txt
 16) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
+17) Melakukan push REV01 berkas 0004-catatan-OS201.txt bagian dugaan/penjelasan istilah-istilah
 
 Rencana yang akan dikerjakan:
 =============================
@@ -54,3 +56,5 @@ Hasil yang telah dicapai:
    https://github.com/alviadibby/os201/blob/master/os201extra2/0002-TOR.txt.asc
 4) Berkas 0003-pelaksanaan-OS201.txt
    https://github.com/alviadibby/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt
+5) Berkas 0004-catatan-OS201.txt
+   https://github.com/alviadibby/os201/blob/master/os201extra2/0004-catatan-OS201.txt
