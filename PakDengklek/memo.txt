@@ -1,3 +1,4 @@
+REV06 WED Jul 28 22:17:47 WIB 2020
 REV05 WED Jul 27 23:02:23 WIB 2020
 REV04 WED Jul 24 21:10:45 WIB 2020
 REV03 WED Jul 23 21:08:35 WIB 2020
@@ -24,6 +25,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 12. Membuat berkas 0004-catatan-OS201.txt
 13. Melengkapi berkas 0004-catatan-OS201.txt
 14. Menambahkan analisis dari responden pada 0004-catatan-OS201.txt
+15. Menambahkan analisis Tahap II, II, dan IV pada 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
