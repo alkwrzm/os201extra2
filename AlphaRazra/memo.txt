@@ -1,3 +1,4 @@
+REV05 MON Jul 28 20:34:00 WIB 2020
 REV04 FRI Jul 24 22:39:10 WIB 2020
 REV03 THU Jul 23 22:33:07 WIB 2020
 REV02 WED Jul 22 13:38:15 WIB 2020
@@ -17,6 +18,8 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 9. Mencari perbandingan mengenai UTS OS dengan UTS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
 10. Menulis catatan singkat mengenai pelaksaan perkuliahan OS pada file 0003-pelaksanaan-OS201.txt
 11. Melakukan push pertama kali untuk file 0003-pelaksanaan-OS201.txt 
+12. Menambahkan pada file 0003-pelaksanaan-OS201.txt perbandingan pelaksanaan kegiatan belajar mengajar sebelum dan sesudah UTS.
+13. Memulai memikirkan rancangan file 0004-catatan-OS201.txt di pada folder local, yang nantinya akan di push ke gitlab
 
 Rencana yang akan dikerjakan
 =============================
