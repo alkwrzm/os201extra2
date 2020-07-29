@@ -1,3 +1,4 @@
+REV09 WED Jul 29 22:30:00 WIB 2020
 REV08 TUE Jul 28 23:22:00 WIB 2020
 REV07 MON Jul 27 23:00:00 WIB 2020
 REV06 SAT Jul 25 21:40:00 WIB 2020
@@ -25,6 +26,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 10) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt
 11) Memperbaiki berkas 0003-pelaksanaan-OS201.txt dan melanjutkan berkas 0004-catatan-OS201.txt
 12) Berkas 0003-pelaksanaan.OS201.txt selesai dikerjakan
+13) Melanjutkan berkas 0004-catatan-OS201.txt 
 
 Rencana yang akan dikerjakan
 =============================
