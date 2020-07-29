@@ -2,6 +2,8 @@ REV01 MON Jul 20 23:23:00 WIB 2020
 REV02 WED Jul 22 13:35:12 WIB 2020
 REV03 THU Jul 23 22:27:23 WIB 2020
 REV04 FRI Jul 24 22:25:22 WIB 2020
+REV05 TUE Jul 28 12:53:34 WIB 2020
+REV06 WED Jul 29 12:29:33 WIB 2020
 
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
@@ -17,15 +19,15 @@ berapa, diupgrade ke nilai berapa.
 7) Menambahkan kelas pada berkas 0001-extra201.txt.asc
 8) Melanjutkan pekerjaan pada berkas 0004-catatan-OS201.txt dan 0003-pelaksanaan-OS201.txt
 9) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
-10) Menyicil pekerjaan pada berkas 0003-pelaksanaan-OS201.txt yang sudah dipush di dalam "os201extra2/"
-11) Mengupdate memo
+10) Menyelesaikan pekerjaan pada berkas 0003-pelaksanaan-OS201.txt yang sudah dipush di dalam "os201extra2/"
+11) Menyicil pekerjaan pada berkas 0004-catatan-OS201.txt dengan menambahkan catatan tambahan untuk pelaksanaan Persiapan UAS yang sudah dipush di dalam "os201extra2/"
+12) Mengupdate memo
 
 B. Rencana yang akan dikerjakan
 -------------------------------
-1) Melanjutkan pengerjaan berkas 0003-pelaksanaan-OS201.txt dalam "os201extra2/"
-2) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt dalam dalam "os201extra2/"
-3) Membuat SHA1SUM dan SHA1SUM.asc dalam "os201extra2/" 
-4) Mengupdate memo
+1) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt dalam dalam "os201extra2/"
+2) Membuat SHA1SUM dan SHA1SUM.asc dalam "os201extra2/" 
+3) Mengupdate memo
 
 C. Koordinasi dengan anggota lainnya
 ------------------------------------
@@ -37,4 +39,5 @@ D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 0000-mypub.txt
 0001-extra201.txt.asc
 0002-TOR.txt.asc
+0003-pelaksanaan-OS201.txt
 https://github.com/hanardiansyah/os201/tree/master/os201extra2

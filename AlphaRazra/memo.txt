@@ -1,3 +1,5 @@
+REV06 WED Jul 29 20:46:06 WIB 2020
+REV05 TUE Jul 28 20:34:00 WIB 2020
 REV04 FRI Jul 24 22:39:10 WIB 2020
 REV03 THU Jul 23 22:33:07 WIB 2020
 REV02 WED Jul 22 13:38:15 WIB 2020
@@ -17,11 +19,14 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 9. Mencari perbandingan mengenai UTS OS dengan UTS mata kuliah lainnya untuk pengisian berkas 0003-pelaksanaan-OS201.txt
 10. Menulis catatan singkat mengenai pelaksaan perkuliahan OS pada file 0003-pelaksanaan-OS201.txt
 11. Melakukan push pertama kali untuk file 0003-pelaksanaan-OS201.txt 
+12. Menambahkan pada file 0003-pelaksanaan-OS201.txt perbandingan pelaksanaan kegiatan belajar mengajar sebelum dan sesudah UTS.
+13. Memulai memikirkan rancangan file 0004-catatan-OS201.txt di pada folder local, yang nantinya akan di push ke gitlab
+14. Menambahkan pada file 0003-pelaksanaan-OS201.txt perbandingan pelaksanaan UTS mata kuliah OS dengan mata kuliah lainnya.
 
 Rencana yang akan dikerjakan
 =============================
 1. Update MEMO secara berkala setiap harinya
-2. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt dan push berkas tersebut ke repo pribadi
+2. Melanjutkan pengerjaan 0003-pelaksanaan-OS201.txt dan push berkas tersebut ke repo pribadi. Target saya, sebelum minggu ini sudah selesai keseluruhan file
 3. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 4. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
 5. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)

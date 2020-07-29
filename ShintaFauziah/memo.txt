@@ -1,3 +1,4 @@
+# REV07 Wed Jul  29 20:34:55 WIB 2020
 # REV06 Mon Jul  27 19:18:33 WIB 2020
 # REV05 Fri Jul  24 16:18:03 WIB 2020
 # REV04 Thu Jul  23 18:21:43 WIB 2020
@@ -43,14 +44,18 @@ a. Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 17)  Merevisi tanggal pada file memo.txt, 0004-catatan-OS201.txt, dan 0003-pelaksanaan-OS201.txt
 18)  Melakukan update rencana pelaksanaan tugas pada berkas  0002-TOR.txt.asc
 19)  Melakukan update memo.txt (update 6)
+20)  Melakukan revisi pada berkas 0004-catatan-OS201.txt :
+20a) Melakukan perbaikan SCELE, Whatsapp group, dan email
+21)  Membuat berkas SHA1SUM dan SHA1SUM.asc
+22)  Melakukan update memo.txt (update 7)
 
 b. Rencana yang Akan Dikerjakan
 ===============================
-1) Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt
+1) Mengupdate berkas 0004-catatan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
 2) Mengupdate berkas 0003-pelaksanaan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
-3) Mengupdate berkas 0002-TOR.txt.asc (jika terdapat hal - hal yang perlu di revisi)
-4) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
-5) Mengupdate MEMO 
+2) Mengupdate berkas 0002-TOR.txt.asc (jika terdapat hal - hal yang perlu di revisi)
+3) Mengupdate SHA1SUM dan SHA1SUM.asc 
+4) Mengupdate MEMO 
 
 c. Koordinasi dengan Anggota Lainnya 
 ====================================
@@ -66,3 +71,5 @@ d. Hasil yang Dicapai
 3) Berkas 0002-TOR.txt.asc yang terdapat pada https://github.com/ShintaFauziah/os201/tree/master/os201extra2
 4) Berkas 0003-pelaksanaan-OS201.txt pada https://github.com/ShintaFauziah/os201/tree/master/os201extra2
 5) Berkas 0004-catatan-OS201.txt pada https://github.com/ShintaFauziah/os201/tree/master/os201extra2
+5) Berkas SHA1SUM pada https://github.com/ShintaFauziah/os201/tree/master/os201extra2
+6) Berkas SHA1SUM.asc pada https://github.com/ShintaFauziah/os201/tree/master/os201extra2

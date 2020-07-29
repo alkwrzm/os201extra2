@@ -1,3 +1,4 @@
+REV07 TUE Jul 28 22:54:25 WIB 2020
 REV06 MON Jul 27 22:38:30 WIB 2020
 REV05 FRI Jul 24 20:42:25 WIB 2020
 REV04 THU Jul 23 14:11:00 WIB 2020
@@ -35,6 +36,10 @@ A) apa yang dikerjakan sejak penulisan memo sebelumnya
 12. Memulai membuat berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt, kemudian mengisi nya sesuai dengan data-data yang sudah dibuat pada docs bersama (masih di local dan belum di-push ke github)
 
 13. Menyelesaikan berkas 0003-pelaksanaan-OS201.txt dan mem-push nya dalam repo github pribadi
+
+14. Merevisi sedikit berkas 0003-pelaksanaan-OS201.txt
+
+15. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt di local, yaitu membuat catatan tambahan untuk pelaksanaan persiapan UAS dan tahap-tahap UAS
 
 B) rencana yang akan dikerjakan
 ========================================================================================================================
