@@ -1,3 +1,4 @@
+REV07 WED Jul 29 15:43:00 WIB 2020
 REV06 TUE Jul 28 10:19:00 WIB 2020
 REV05 TUE Jul 28 01:00:00 WIB 2020 
 REV04 THU Jul 23 22:01:00 WIB 2020
@@ -21,6 +22,8 @@ A) Apa yang dikerjakan sejak penulisan memo sebelumnya
 10) Sudah membuat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini, membandingkan pelaksanaan pengajaran sebelum dan sesudah UTS, dan membandingkan pelaksanaan UTS OS dengan UTS lainnya untuk isi dari berkas 0003-pelaksanaan-OS201.txt namun belum menaruh pada github pribadi/os201extra2
 11) Membuat berkas 0003-pelaksanaan-OS201.txt pada github pribadi/os201extra2
 12) Membuat berkas 0004-catatan-OS201.txt pada github pribadi/os201extra2
+13) Menambahkan namalengkap / kelas / NPM / usergithub pada berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+14) Mencicil catatan 0004-catatan-OS201.txt untuk evaluasi pelaksanaan UTS
 
 B) Rencana yang akan dikerjakan
 1) Update MEMO
