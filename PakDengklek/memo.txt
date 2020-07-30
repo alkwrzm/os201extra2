@@ -1,3 +1,5 @@
+REV08 WED Jul 30 23:36:34 WIB 2020
+REV07 WED Jul 29 22:34:35 WIB 2020
 REV06 WED Jul 28 22:17:47 WIB 2020
 REV05 WED Jul 27 23:02:23 WIB 2020
 REV04 WED Jul 24 21:10:45 WIB 2020
@@ -29,6 +31,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 16. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 17. Menambahkan analisis tahap V serta kritik dan saran secara sekeluruhan
 18. Menghapus 0004-catatan-OS201.txt.save
+19. Menambahkan Scripting, FUSE, Git, dan GitHub Page 
 
 Rencana yang akan dikerjakan
 =============================
