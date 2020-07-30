@@ -1,3 +1,4 @@
+REV10 THU Jul 30 22:56:00 WIB 2020
 REV09 WED Jul 29 23:16:00 WIB 2020
 REV08 TUE Jul 28 23:08:00 WIB 2020
 REV07 MON Jul 27 23:56:00 WIB 2020
@@ -29,6 +30,7 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 16) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
 17) Melakukan push REV01 berkas 0004-catatan-OS201.txt bagian dugaan/penjelasan istilah-istilah
 18) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
+19) Melakukan push REV02 berkas 0004-catatan-OS201.txt bagian catatan tambahan UAS (opini), belum selesai
 
 Rencana yang akan dikerjakan:
 =============================
