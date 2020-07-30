@@ -1,3 +1,4 @@
+REV09 THU Jul 30 21:44:10 WIB 2020
 REV08 WED Jul 29 23:11:15 WIB 2020
 REV07 TUE Jul 28 22:54:25 WIB 2020
 REV06 MON Jul 27 22:38:30 WIB 2020
@@ -44,6 +45,8 @@ A) apa yang dikerjakan sejak penulisan memo sebelumnya
 
 16. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt di local, yaitu membuat penjelasan singkat tentang scripting, FUSE, git, github, github page, GnuPG, 
 SHA1SUM, SHA1SUM.asc dan mem-push nya dalam repo github pribadi
+
+17. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt, yaitu melengkapi catatan tambahan untuk pelaksanaan dari setiap tahap UAS
 
 B) rencana yang akan dikerjakan
 ========================================================================================================================
