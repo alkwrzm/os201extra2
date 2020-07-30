@@ -1,3 +1,5 @@
+REV09 THU JUl 30 23:31:00 WIB 2020
+REV08 WED JUl 29 23:28:00 WIB 2020
 REV07 TUE JUl 28 21:12:00 WIB 2020
 REV06 MON JUl 27 19:59:00 WIB 2020
 REV05 FRI Jul 24 22:31:00 WIB 2020
@@ -15,11 +17,12 @@ a. Apa yang sudah dilakukan setelah penulisan memo sebelumnya
 0002-TOR.txt.asc
 2) Menambahkan kelas pada berkas 0001-extra201.txt.asc
 3) Menambahkan kelas, nilai sekarang dan nilai pada saat diupdate pada bagian HASIL di berkas 0002-TOR.txt.asc
-4) Menyicil pengerjaan berkas 0004-catatan-OS201.txt
-5) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
-6) Melakukan push untuk pengerjaan berkas 0003-pelaksanaan-OS201.txt dalam os201 pribadi
-7) Mengumpulkan pendapat mahasiswa agar sebagai data untuk keperluan berkas 0004-catatan-OS201.txt
-8) Melakukan update pada memo.txt
+4) Melakukan update mengenai rencana pelaksanaan tugas pada berkas 0002-TOR.txt
+5) Melakukan push untuk pengerjaan berkas 0003-pelaksanaan-OS201.txt dalam os201 pribadi
+6) Mengumpulkan pendapat mahasiswa agar sebagai data untuk keperluan berkas 0004-catatan-OS201.txt
+7) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai Scripting, FUSE, dan git
+8) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai GitHub, GitHub Page, dan GnuPG
+9) Melakukan update pada memo.txt
 
 b. Rencana yang akan dikerjakan
 ===============================
@@ -31,6 +34,7 @@ c. Koordinasi dengan anggota lainnya
 ====================================
 1) Menampung pandangan mahasiswa terhadap pelaksanaan UAS melalui survey 
 2) Melakukan koordinasi dengan anggota lainnya mengenai tugas yang akan dilaksanakan 
+3) Selalu mengingatkan apabila ada berkas yang harus di update
 
 d. Hasil tugas yang telah dicapai
 =================================

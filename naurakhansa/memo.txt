@@ -6,6 +6,8 @@ REV05 FRI Jul 24 21:34:00 WIB 2020
 REV05 MON Jul 27 09:00:00 WIB 2020
 REV06 TUE Jul 28 12:57:00 WIB 2020
 REV07 WED Jul 29 21:35:00 WIB 2020
+REV08 THU Jul 30 23:23:00 WIB 2020
+
 =============================================================================================================================
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
 1. Membuat dan melakukan push 0002-TOR.txt.asc pada git pribadi 
@@ -20,6 +22,7 @@ berapa, diupgrade ke nilai berapa.
 9. Mengisi berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 10. Melengkapi berkas 0004-catatan-OS201.txt bagian problem Github, Github Page, dan Scele
 11. Melengkapi berkas 0004-catatan-OS201.txt bagian problem Race Condition
+12. 11. Melengkapi berkas 0004-catatan-OS201.txt bagian problem git bersama
 =============================================================================================================================
 B. Rencana yang akan dikerjakan
 1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS pada semester 4 ini 
