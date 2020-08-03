@@ -5,12 +5,13 @@ REV03 THU Jul 23 16:03:35 WIB 2020
 REV04 FRI Jul 24 18:33:09 WIB 2020
 REV05 MON Jul 27 23:54:19 WIB 2020
 REV06 TUE Jul 28 16:51:09 WIB 2020
+REV07 WED Jul 29 20:56:30 WIB 2020
 REV07 THU Jul 30 15:22:23 WIB 2020
+REV07 FRI Jul 31 17:54:26 WIB 2020
 ==================================
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya
-1. Merevisi berkas 0003-pelaksanaan-OS201.txt pada GitHub pribadi
-2. Mengupdate berkas 0004-catatan-OS201.txt pada GitHub pribadi (Masih on progress)
+1. Mengupdate berkas 0004-catatan-OS201.txt pada GitHub pribadi (Masih on progress)
 
 B. Rencana yang akan dikerjakan
 1. Update MEMO

@@ -1,3 +1,5 @@
+REV12 MON Aug 03 22:43:00 WIB 2020
+REV11 FRI Jul 21 23:04:00 WIB 2020
 REV10 THU Jul 30 22:56:00 WIB 2020
 REV09 WED Jul 29 23:16:00 WIB 2020
 REV08 TUE Jul 28 23:08:00 WIB 2020
@@ -21,16 +23,20 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 7) Menambahkan nama/kelas/npm/akunGitHub, nilai saat ini, dan nilai tujuan pada berkas 0002-TOR.txt.asc
 8) Mengumpulkan data melalui survei mengenai pelaksanaan UAS online ke peserta-peserta UAS dari berbagai kelas (A/B/C)
 9) Menyimpulkan data hasil survei
-10) Membuat draft kasar untuk berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
-11) Melanjutkan pengerjaan berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
-12) Melakukan push REV01 berkas 0003-pelaksanaan-OS201.txt
-13) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
+10) Membuat draft kasar untuk berkas 0003-pelaksanaan-OS201.txt (catatan os tahun ini, perbandingan sebelum dan sesudah UTS))
+11) Melanjutkan pengerjaan berkas 0003-pelaksanaan-OS201.txt (perbandingan UTS dan UAS OS dengan matkul lain)
+12) Melakukan push REV01 berkas 0003-pelaksanaan-OS201.txt (pelaksanaan OS201)
+13) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (penjelasan istilah scripting, fuse, git, github)
 14) Membaca dan memahami https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 15) Mengumpulkan pendapat untuk keperluan berkas 0004-catatan-OS201.txt
-16) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
+16) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (penjelasan istilah github page, gnupg, sha1sum, sha1sum.asc))
 17) Melakukan push REV01 berkas 0004-catatan-OS201.txt bagian dugaan/penjelasan istilah-istilah
-18) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt
-19) Melakukan push REV02 berkas 0004-catatan-OS201.txt bagian catatan tambahan UAS (opini), belum selesai
+18) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap persiapan-tahap 2)
+19) Melakukan push REV02 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap persiapan-tahap 2)
+20) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 3)
+21) Melakukan review terhadap berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt yang telah dibuat
+22) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 4)
+23) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 3 dan 4)
 
 Rencana yang akan dikerjakan:
 =============================
