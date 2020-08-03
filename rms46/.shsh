@@ -1,0 +1,8 @@
+# Mon Aug  3 11:22:44 WIB 2020
+
+cd ..
+rm -f /tmp/tmptmp
+for II in $(ls) ; do
+    [ -f $II/memo.txt ] && git log --stat $II/memo.txt >> /tmp/tmptmp
+done
+cd rms46
