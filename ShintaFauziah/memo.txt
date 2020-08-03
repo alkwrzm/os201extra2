@@ -1,3 +1,4 @@
+# REV08 Mon Aug  03 21:33:30 WIB 2020
 # REV07 Wed Jul  29 20:34:55 WIB 2020
 # REV06 Mon Jul  27 19:18:33 WIB 2020
 # REV05 Fri Jul  24 16:18:03 WIB 2020
@@ -51,11 +52,7 @@ a. Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 
 b. Rencana yang Akan Dikerjakan
 ===============================
-1) Mengupdate berkas 0004-catatan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
-2) Mengupdate berkas 0003-pelaksanaan-OS201.txt (jika terdapat hal - hal yang perlu di revisi)
-2) Mengupdate berkas 0002-TOR.txt.asc (jika terdapat hal - hal yang perlu di revisi)
-3) Mengupdate SHA1SUM dan SHA1SUM.asc 
-4) Mengupdate MEMO 
+Pekerjaan selesai
 
 c. Koordinasi dengan Anggota Lainnya 
 ====================================
