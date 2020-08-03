@@ -1,3 +1,4 @@
+REV10 MON Aug 03 23:43:30 WIB 2020
 REV09 THU Jul 30 21:44:10 WIB 2020
 REV08 WED Jul 29 23:11:15 WIB 2020
 REV07 TUE Jul 28 22:54:25 WIB 2020
@@ -47,6 +48,8 @@ A) apa yang dikerjakan sejak penulisan memo sebelumnya
 SHA1SUM, SHA1SUM.asc dan mem-push nya dalam repo github pribadi
 
 17. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt, yaitu melengkapi catatan tambahan untuk pelaksanaan dari setiap tahap UAS
+
+18. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt, di bagian 3 tentang sudut pandang peserta OS201
 
 B) rencana yang akan dikerjakan
 ========================================================================================================================
