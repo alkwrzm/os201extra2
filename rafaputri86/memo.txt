@@ -42,4 +42,5 @@ mulai membuat pada repo pribadi 0003-pelaksanaan-OS201.txt
 mulai mengupload 0004-catatan-OS201.txt 
 menambahkan materi pada 0004-catatan-OS201.txt (tentang SHA1SUM)
 menambahkan materi pada 0004-catatan-OS201.txt (tentang catatan tambahan untuk pelaksanaan untuk tahap 4)
-merapihkan dan menambah 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+merapihkan dan menambah 0003-pelaksanaan-OS201.txt
+merapihkan dan menambah 0004-catatan-OS201.txt
