@@ -8,6 +8,8 @@ REV06 TUE Jul 28 12:57:00 WIB 2020
 REV07 WED Jul 29 21:35:00 WIB 2020
 REV08 THU Jul 30 23:23:00 WIB 2020
 REV09 MON Aug 03 06:15:00 WIB 2020
+REV10 TUE Aug 04 08:45:00 WIB 2020
+
 
 
 =============================================================================================================================
@@ -26,6 +28,7 @@ berapa, diupgrade ke nilai berapa.
 11. Melengkapi berkas 0004-catatan-OS201.txt bagian problem Race Condition
 12. Melengkapi berkas 0004-catatan-OS201.txt bagian problem git bersama
 13. Melengkapi berkas 0004-catatan-OS201.txt bagian penjelasan SHA1SUM, catatan tambahan pelaksanaan UAS TAHAP 3 dan TAHAP 4
+14. Melengkapi berkas 0004-catatan-OS201.txt bagian problem
 
 =============================================================================================================================
 B. Rencana yang akan dikerjakan
@@ -45,3 +48,4 @@ D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 1. 0002-TOR.txt.asc : https://github.com/naurakhansa/os201/tree/master/extra201
 2. 0003-pelaksanaan-OS201.txt : https://github.com/naurakhansa/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt
 3. 0004-catatan-OS201.txt : https://github.com/naurakhansa/os201/blob/master/os201extra2/0004-catatan-OS201.txt
+
