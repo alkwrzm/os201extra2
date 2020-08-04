@@ -7,6 +7,7 @@ REV06 WED Jul 29 12:29:33 WIB 2020
 REV07 WED Jul 29 22:58:17 WIB 2020
 REV08 THU Jul 30 12:15:11 WIB 2020
 REV09 MON Aug 03 14:51:10 WIB 2020
+REV10 TUE Aug 04 14:23:21 WIB 2020 
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
 ------------------------------------------------------
@@ -25,7 +26,8 @@ berapa, diupgrade ke nilai berapa.
 11) Mencicil pekerjaan pada berkas 0004-catatan-OS201.txt dengan menambahkan catatan tambahan untuk pelaksanaan Persiapan UAS yang sudah dipush di dalam "os201extra2/"
 12) Mencicil pekerjaan pada berkas 0004-catatan-OS201.txt dengan menambahkan catatan sampai dengan Tahap 2 yang sudah dipush di dalam "os201extra2/"
 13) Mencicil pekerjaan pada berkas 0004-catatan-OS201.txt dengan menambahkan catatan sampai dengan Tahap 5 yang sudah dipush di dalam "os201extra2/"
-14) Mengupdate memo
+14) Mencicil pekerjaan pada berkas 0004-catatan-OS201.txt dengan menambahkan penjelasan sampai dengan SHA1SUM.asc yang sudah dipush di dalam "os201extra2/"
+15) Mengupdate memo
 
 B. Rencana yang akan dikerjakan
 -------------------------------

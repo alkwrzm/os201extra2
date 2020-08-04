@@ -1,15 +1,16 @@
-REV12 MON Aug 03 22:43:00 WIB 2020
-REV11 FRI Jul 21 23:04:00 WIB 2020
-REV10 THU Jul 30 22:56:00 WIB 2020
-REV09 WED Jul 29 23:16:00 WIB 2020
-REV08 TUE Jul 28 23:08:00 WIB 2020
-REV07 MON Jul 27 23:56:00 WIB 2020
-REV06 FRI Jul 24 21:30:00 WIB 2020
-REV05 THU Jul 23 22:31:00 WIB 2020
-REV04 WED Jul 22 23:16:00 WIB 2020
-REV03 WED Jul 22 23:03:00 WIB 2020
-REV02 TUE Jul 21 23:36:00 WIB 2020
-REV01 MON Jul 20 22:59:00 WIB 2020
+REV13 Tue Aug 04 21:38:00 WIB 2020
+REV12 Mon Aug 03 22:43:00 WIB 2020
+REV11 Fri Jul 21 23:04:00 WIB 2020
+REV10 Thu Jul 30 22:56:00 WIB 2020
+REV09 Wed Jul 29 23:16:00 WIB 2020
+REV08 Tue Jul 28 23:08:00 WIB 2020
+REV07 Mon Jul 27 23:56:00 WIB 2020
+REV06 Fri Jul 24 21:30:00 WIB 2020
+REV05 Thu Jul 23 22:31:00 WIB 2020
+REV04 Wed Jul 22 23:16:00 WIB 2020
+REV03 Wed Jul 22 23:03:00 WIB 2020
+REV02 Tue Jul 21 23:36:00 WIB 2020
+REV01 Mon Jul 20 22:59:00 WIB 2020
 ==================================
 
 Yang dikerjakan sejak penulisan memo sebelumnya:
@@ -37,6 +38,8 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 21) Melakukan review terhadap berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt yang telah dibuat
 22) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 4)
 23) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 3 dan 4)
+24) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 5)
+25) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 5)
 
 Rencana yang akan dikerjakan:
 =============================
