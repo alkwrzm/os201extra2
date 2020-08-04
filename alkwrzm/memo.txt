@@ -1,3 +1,4 @@
+REV13 TUE AUG 04 23:15:00 WIB 2020
 REV12 MON AUG 03 23:12:00 WIB 2020
 REV11 FRI Jul 31 22:54:26 WIB 2020
 REV10 THU Jul 30 22:40:00 WIB 2020
@@ -33,6 +34,7 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 14) Merevisi kesalahan pada berkas 0003-pelaksanaan-OS201.txt
 15) Merevisi kesalahan pada berkas 0004-catatan-OS201.txt 
 16) Initial push berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+17) Crosscheck berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
