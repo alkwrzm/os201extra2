@@ -1,3 +1,4 @@
+REV10 WED Aug 04 22:01:34 WIB 2020
 REV09 WED Aug 03 23:36:45 WIB 2020
 REV08 WED Jul 30 23:36:34 WIB 2020
 REV07 WED Jul 29 22:34:35 WIB 2020
@@ -34,13 +35,13 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 18. Menghapus 0004-catatan-OS201.txt.save
 19. Menambahkan Scripting, FUSE, Git, dan GitHub Page 
 20. Menambahkan SHA1SUM dan SHA1SUM.asc serta Tantangan, Study From Home, Windows 10 & Font, WhatsApp Group, dan Email
-21. Menghapus0004-catatan-OS201.txt.save.save
+21. Menghapus 0004-catatan-OS201.txt.save.save
+22. Menyelesaikan 0004-catatan-OS201.txt
+23. Membuat SHA1SUM dan SHA1SUM.asc
 
 Rencana yang akan dikerjakan
 =============================
-1. Update MEMO secara berkala setiap harinya
-2. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
-3. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+Sudah selesai
 
 Koordinasi dengan anggota lainnya
 =================================
@@ -50,9 +51,12 @@ Koordinasi dengan anggota lainnya
 
 Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 ===========================================================================
-0000-mypub.txt 
-0001-extra201.txt.asc 
-0002-TOR.txt.asc
-0003-pelaksanaan-OS201.txt
-0004-catatan-OS201.txt
+- 0000-mypub.txt 
+- 0001-extra201.txt.asc 
+- 0002-TOR.txt.asc
+- 0003-pelaksanaan-OS201.txt
+- 0004-catatan-OS201.txt
+- SHA1SUM
+- SHA1SUM.asc
+
 Link : https://github.com/PakDengklek/os201/tree/master/os201extra2
