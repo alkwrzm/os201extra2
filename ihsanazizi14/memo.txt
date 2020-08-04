@@ -1,3 +1,4 @@
+REV11 TUE Aug 04 22:17:02 WIB 2020
 REV10 MON Aug 03 23:43:30 WIB 2020
 REV09 THU Jul 30 21:44:10 WIB 2020
 REV08 WED Jul 29 23:11:15 WIB 2020
@@ -51,17 +52,13 @@ SHA1SUM, SHA1SUM.asc dan mem-push nya dalam repo github pribadi
 
 18. Melanjutkan pengerjaan berkas 0004-catatan-OS201.txt, di bagian 3 tentang sudut pandang peserta OS201
 
+19. Menyelesaikan berkas 0004-catatan-OS201.txt
+
 B) rencana yang akan dikerjakan
 ========================================================================================================================
-1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS
+1. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
-2. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-
-3. Membuat berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
-
-4. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
-
-5. Mengupdate memo.txt setiap harinya.
+2. Mengupdate memo.txt setiap harinya.
 
 
 C) Koordinasi dengan anggota lainnya
