@@ -7,6 +7,8 @@ REV05 MON Jul 27 09:00:00 WIB 2020
 REV06 TUE Jul 28 12:57:00 WIB 2020
 REV07 WED Jul 29 21:35:00 WIB 2020
 REV08 THU Jul 30 23:23:00 WIB 2020
+REV09 MON Aug 03 06:15:00 WIB 2020
+
 
 =============================================================================================================================
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
@@ -22,18 +24,22 @@ berapa, diupgrade ke nilai berapa.
 9. Mengisi berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 10. Melengkapi berkas 0004-catatan-OS201.txt bagian problem Github, Github Page, dan Scele
 11. Melengkapi berkas 0004-catatan-OS201.txt bagian problem Race Condition
-12. 11. Melengkapi berkas 0004-catatan-OS201.txt bagian problem git bersama
+12. Melengkapi berkas 0004-catatan-OS201.txt bagian problem git bersama
+13. Melengkapi berkas 0004-catatan-OS201.txt bagian penjelasan SHA1SUM, catatan tambahan pelaksanaan UAS TAHAP 3 dan TAHAP 4
+
 =============================================================================================================================
 B. Rencana yang akan dikerjakan
 1. Membuat berkas 0003-pelaksanaan-OS201.txt yang berisi laporan pengalaman pelaksanaan kuliah OS pada semester 4 ini 
 2. Membuat berkas 0004-catatan-OS201.txt 
 3. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
-4. Melengkapi berkas 0004-catatan-OS201.txt, bagian problem khususnya
+4. Melengkapi berkas 0004-catatan-OS201.txt, bagian problem 
+
 =============================================================================================================================
 C. Koordinasi dengan anggota lainnya
 1. Menampung pandangan mahasiswa terhadap pelaksanaan UAS melalui survey 
 2. Membuat survey bersama dengan anggota lainnya dalam bentuk google forms
 3. Mengkomunikasikan rencana pengerjaan tugas bersama mahasiswa lain
+
 =============================================================================================================================
 D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 1. 0002-TOR.txt.asc : https://github.com/naurakhansa/os201/tree/master/extra201

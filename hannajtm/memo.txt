@@ -1,3 +1,4 @@
+REV12 Mon Aug 03 11:13:00 WIB 2020
 REV11 Thu Jul 30 13:03:00 WIB 2020
 REV10 Wed Jul 29 17:56:00 WIB 2020
 REV09 Tue Jul 28 15:42:00 WIB 2020
@@ -66,12 +67,14 @@ memo.txt (MEMO) di "hannajtm/memo.txt"
 
 24. Mengisi berkas 0004-catatan-OS201.txt dengan bahas dari sudut pandang peserta OS201 terkait GNUPG, sha1sum dan sha1sum.asc, race condition, absen, SCELE, WhatsApp Group, Zoom, YouTube, Email, serta Scripting
 
+25. Mengisi berkas 0004-catatan-OS201.txt dengan bahas dari sudut pandang peserta OS201 terkait Outside, akun github OS201 bersama, dan pembentukan kelompok
+
+26. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
 
 b) rencana yang akan dikerjakan
 ===============================
-1. Menyelesaikan isi dari berkas 0004-catatan-0S201.txt
-
-2. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+sudah selesai
 
 
 c) koordinasi dengan anggota lainnya
@@ -97,5 +100,5 @@ d) Hasil yang dicapai terlampir dalam https://github.com/hannajtm/os201/tree/mas
 
 4. 0003-pelaksanaan-OS201.txt
 
-5. 0004-catatan-OS201.txt (belum selesai)
+5. 0004-catatan-OS201.txt
 
