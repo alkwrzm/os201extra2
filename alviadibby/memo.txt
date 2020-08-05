@@ -1,3 +1,4 @@
+REV14 Wed Aug 05 23:40:00 WIB 2020
 REV13 Tue Aug 04 21:38:00 WIB 2020
 REV12 Mon Aug 03 22:43:00 WIB 2020
 REV11 Fri Jul 21 23:04:00 WIB 2020
@@ -40,6 +41,7 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 23) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 3 dan 4)
 24) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 5)
 25) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 5)
+26) Melakukan push REV04 dan REV05 0004-catatan-OS201.txt berisi revisi dan tambahan pandangan terhadap https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 
 Rencana yang akan dikerjakan:
 =============================
