@@ -1,4 +1,5 @@
-REV010 TUE Aug 4   23:12:50 WITA 2020
+REV11  WED Aug 5   14:56:23 WITA 2020
+REV10  TUE Aug 4   23:12:50 WITA 2020
 REV09  MON Aug 3   21:45:35 WITA 2020
 REV08  THU Jul 30  22:01:26 WITA 2020
 REV07  WED Jul 29  23:30:28 WITA 2020
@@ -12,15 +13,13 @@ REV01  TUE Jul 21  03:18:01 WITA 2020
 
 Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 =============================================================
-1. Melanjutkan pengerjaan 0004-catatan-OS201.txt
+1. Menyelesaikan pengerjaan 0004-catatan-OS201.txt
+
+2. Membuat SHA1SUM dan SHA1SUM.asc
 
 Rencana yang akan dikerjakan
 =============================
-1. Update MEMO secara berkala setiap hari
-
-2. Melanjutkan berkas 0004-catatan-OS201.txt yang berisi penilaian terhadap referensi dari sudut pandang peserta mata kuliah OS
-
-3. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+1. Mengecek apakah berkas-berkas sudah ketentuan atau belum. Jika terdapat kesalahan, maka dibenarkan
 
 Koordinasi dengan anggota lainnya
 =================================
@@ -42,5 +41,9 @@ Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 - 0003-pelaksanaan-OS201.txt (https://github.com/adzshaf/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt)
 
 - 0004-catatan-OS201.txt (https://github.com/adzshaf/os201/blob/master/os201extra2/0004-catatan-OS201.txt)
+
+- SHA1SUM (https://github.com/adzshaf/os201/blob/master/os201extra2/SHA1SUM)
+
+- SHA1SUM.asc (https://github.com/adzshaf/os201/blob/master/os201extra2/SHA1SUM.asc)
 
 URL: https://github.com/adzshaf/os201/tree/master/os201extra2
