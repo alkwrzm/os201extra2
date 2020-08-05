@@ -14,6 +14,7 @@ REV12 WED Aug 05 11:44:22 WIB 2020
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya
 1. Finalisasi tugas
+2. Menambahkan file SHA1SUM dan SHA1SUM.asc
 
 B. Rencana yang akan dikerjakan
 1. Update MEMO
@@ -31,3 +32,5 @@ D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 2. 0002-TOR.txt.asc : https://github.com/FarizioKautsar/os201/tree/master/os201extra2/0002-TOR.txt.asc
 3. 0003-pelaksanaan-OS201.txt : https://github.com/FarizioKautsar/os201/tree/master/os201extra2/0003-pelaksanaan-OS201.txt
 4. 0004-catatan-OS201.txt : https://github.com/FarizioKautsar/os201/tree/master/os201extra2/0004-catatan-OS201.txt
+5. SHA1SUM : https://github.com/FarizioKautsar/os201/blob/master/os201extra2/SHA1SUM
+6. SHA1SUM.asc : https://github.com/FarizioKautsar/os201/blob/master/os201extra2/SHA1SUM.asc
