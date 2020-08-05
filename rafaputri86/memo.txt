@@ -44,3 +44,5 @@ menambahkan materi pada 0004-catatan-OS201.txt (tentang SHA1SUM)
 menambahkan materi pada 0004-catatan-OS201.txt (tentang catatan tambahan untuk pelaksanaan untuk tahap 4)
 merapihkan dan menambah 0003-pelaksanaan-OS201.txt
 merapihkan dan menambah 0004-catatan-OS201.txt
+membuat SHA1SUM & SHA1SUM.asc
+
