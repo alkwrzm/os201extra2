@@ -9,6 +9,8 @@ REV07 WED Jul 29 21:35:00 WIB 2020
 REV08 THU Jul 30 23:23:00 WIB 2020
 REV09 MON Aug 03 06:15:00 WIB 2020
 REV10 TUE Aug 04 08:45:00 WIB 2020
+REV11 WED Aug 05 08:30:00 WIB 2020
+
 
 
 
@@ -29,6 +31,8 @@ berapa, diupgrade ke nilai berapa.
 12. Melengkapi berkas 0004-catatan-OS201.txt bagian problem git bersama
 13. Melengkapi berkas 0004-catatan-OS201.txt bagian penjelasan SHA1SUM, catatan tambahan pelaksanaan UAS TAHAP 3 dan TAHAP 4
 14. Melengkapi berkas 0004-catatan-OS201.txt bagian problem
+15. Menyelesaikan berkas 0004-catatan-OS201.txt bagian problem
+16. Membuat berkasi SHA1SUM dan SHA1SUM.asc untuk berkas berkas di git pribadi
 
 =============================================================================================================================
 B. Rencana yang akan dikerjakan
@@ -36,6 +40,7 @@ B. Rencana yang akan dikerjakan
 2. Membuat berkas 0004-catatan-OS201.txt 
 3. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 4. Melengkapi berkas 0004-catatan-OS201.txt, bagian problem 
+5. Membuat berkasi SHA1SUM dan SHA1SUM.asc untuk berkas berkas di git pribadi
 
 =============================================================================================================================
 C. Koordinasi dengan anggota lainnya
@@ -48,4 +53,3 @@ D. Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 1. 0002-TOR.txt.asc : https://github.com/naurakhansa/os201/tree/master/extra201
 2. 0003-pelaksanaan-OS201.txt : https://github.com/naurakhansa/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt
 3. 0004-catatan-OS201.txt : https://github.com/naurakhansa/os201/blob/master/os201extra2/0004-catatan-OS201.txt
-
