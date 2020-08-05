@@ -1,3 +1,4 @@
+REV12 WED Aug 05 14:53:00 WIB 2020
 REV11 WED Aug 05 09:00:00 WIB 2020
 REV10 MON Aug 03 22:25:00 WIB 2020
 REV09 THU JUl 30 23:31:00 WIB 2020
@@ -26,7 +27,8 @@ a. Apa yang sudah dilakukan setelah penulisan memo sebelumnya
 8) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai GitHub, GitHub Page, dan GnuPG
 9) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai  persiapan UAS, Tahap 1 dan Tahap 2
 10) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai  persiapan Tahap 3, Tahap 4 dan Tahap 5
-11) Melakukan update pada memo.txt
+11) Melakukan push untuk pengerjaan berkas 0004-catatan-OS201.txt dalam os201 pribadi
+12) Melakukan update pada memo.txt
 
 b. Rencana yang akan dikerjakan
 ===============================
@@ -47,4 +49,5 @@ Folder "os201extra2/" dalam os201 pribadi yang berisi:
 0001-extra201.txt.asc (revisi 1)
 0002-TOR.txt.asc (revisi 2)
 0003-pelaksanaan-OS201.txt (revisi 1)
+0004-catatan-OS201.txt (revisi 1)
 Link : https://github.com/ayilaadzkiya24/os201/tree/master/os201extra2
