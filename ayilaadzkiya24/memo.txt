@@ -1,4 +1,5 @@
-REV10 MON Aug 01 22:25:00 WIB 2020
+REV11 WED Aug 05 09:00:00 WIB 2020
+REV10 MON Aug 03 22:25:00 WIB 2020
 REV09 THU JUl 30 23:31:00 WIB 2020
 REV08 WED JUl 29 23:28:00 WIB 2020
 REV07 TUE JUl 28 21:12:00 WIB 2020
@@ -24,7 +25,8 @@ a. Apa yang sudah dilakukan setelah penulisan memo sebelumnya
 7) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai Scripting, FUSE, dan git
 8) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai GitHub, GitHub Page, dan GnuPG
 9) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai  persiapan UAS, Tahap 1 dan Tahap 2
-10) Melakukan update pada memo.txt
+10) Menyicil pengerjaan berkas 0004-catatan-OS201.txt dengan memberikan penjelasan mengenai  persiapan Tahap 3, Tahap 4 dan Tahap 5
+11) Melakukan update pada memo.txt
 
 b. Rencana yang akan dikerjakan
 ===============================
