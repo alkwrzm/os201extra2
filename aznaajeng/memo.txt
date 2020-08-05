@@ -1,3 +1,4 @@
+REV11 WED Aug 5  19:52:00 WIB 2020
 REV10 TUE Aug 4  11:32:00 WIB 2020
 REV09 MON Aug 3  18:55:00 WIB 2020
 REV08 THU Jul 30 11:32:00 WIB 2020
@@ -30,6 +31,7 @@ A) Apa yang dikerjakan sejak penulisan memo sebelumnya
 15) Melengkapi berkas 0004-catatan-OS201.txt untuk bagian persiapan UAS Tahap 3
 15) Melengkapi berkas 0004-catatan-OS201.txt untuk bagian persiapan UAS Tahap 4
 16) Melengkapi berkas 0004-catatan-OS201.txt untuk bagian penjelasan SHA1SUM dan problem untuk media SCELE, Whatsapp, pribadi/os201, bersama/os201,Youtube, Race Condition, dan Persiapan UAS.
+16) Melengkapi berkas 0004-catatan-OS201.txt untuk bagian problem/tantangan untuk SHA1SUM, SHA1SUM.ASC, Konsep GNUPG, dan Email.
 
 B) Rencana yang akan dikerjakan
 1) Update MEMO
