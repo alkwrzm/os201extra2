@@ -1,3 +1,4 @@
+REV09 WED Aug 05 20:27:34 WIB 2020
 REV08 TUE Aug 04 16:12:15 WIB 2020
 REV07 THU Jul 30 23:50:02 WIB 2020
 REV06 WED Jul 29 20:46:06 WIB 2020
@@ -26,8 +27,8 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 14. Menambahkan pada file 0003-pelaksanaan-OS201.txt perbandingan pelaksanaan UTS mata kuliah OS dengan mata kuliah lainnya.
 15. Menambahkan pada file 0003-pelaksanaan-OS201.txt perbandingan pelaksanaan UAS mata kuliah OS dengan mata kuliah lainnya.
 16. Membuat file 0004-catatan-OS201.txt.
-17. Menabahkan catatan untuk mata kuliah OS mengenai persiapan UAS pada berkas 0004-catatan-OS201.txt
-
+17. Menambahkan catatan untuk mata kuliah OS mengenai persiapan UAS pada berkas 0004-catatan-OS201.txt
+18. Melengkapi secara utuh untuk "Catatan untuk mata kuliah OS" pada berkas 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
