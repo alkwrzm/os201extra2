@@ -1,3 +1,4 @@
+REV12 THU Aug 06 22:19:30 WIB 2020
 REV11 THU Aug 06 13:30:38 WIB 2020
 REV10 THU Aug 06 11:15:27 WIB 2020
 REV09 WED Aug 05 20:27:34 WIB 2020
@@ -34,12 +35,12 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 19. Menyelesaikan keseluruhan berkas 0004-catatan-OS201.txt
 20. Mengecek ulang isi dari file 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 21. Membuat file SHA1SUM dan SHA1SUM.asc yang menghash dan mengenkripsi semua file di https://github.com/AlphaRazra/os201/tree/master/os201extra2
+22. Menambahkan perbandingan UTS mata kuliah lain dengan UAS mata kuliah tersebut pada berkas 0003-pelaksanaan-OS201.txt
+23. Menambahkan sara untuk pelaksanaan perkuliahan OS pada berkas 0003-pelaksanaan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
 1. Update MEMO secara berkala setiap harinya
-2. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-3. Mengikuti ZOOM meeting yang akan diadakan pada 6 Agustus 2020 sebagai pembahasan pasca extra UAS OS
 
 Koordinasi dengan anggota lainnya
 =================================
