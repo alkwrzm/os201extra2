@@ -1,3 +1,4 @@
+REV13 THU Aug 06 21:54:43 WIB 2020
 REV12 WED Aug 05 15:54:40 WIB 2020
 REV11 TUE Aug 04 22:17:02 WIB 2020
 REV10 MON Aug 03 23:43:30 WIB 2020
@@ -57,6 +58,10 @@ SHA1SUM, SHA1SUM.asc dan mem-push nya dalam repo github pribadi
 19. Menyelesaikan berkas 0004-catatan-OS201.txt
 
 20. Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+
+21. Merevisi berkas 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
+
+22. Membuat ulang SHA1SUM dan SHA1SUM.asc
 
 
 B) rencana yang akan dikerjakan

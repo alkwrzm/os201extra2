@@ -1,3 +1,5 @@
+REV15 Thu Aug 06 19:21:00 WIB 2020
+REV14 Wed Aug 05 23:40:00 WIB 2020
 REV13 Tue Aug 04 21:38:00 WIB 2020
 REV12 Mon Aug 03 22:43:00 WIB 2020
 REV11 Fri Jul 21 23:04:00 WIB 2020
@@ -40,16 +42,13 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 23) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 3 dan 4)
 24) Melanjutkan draft kasar untuk berkas 0004-catatan-OS201.txt (pendapat tahap 5)
 25) Melakukan push REV03 berkas 0004-catatan-OS201.txt bagian catatan tambahan pendapat mengenai UAS (tahap 5)
+26) Melakukan push REV04 dan REV05 0004-catatan-OS201.txt berisi revisi dan tambahan pandangan terhadap https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+27) Melakukan push REV06 0004-catatan-OS201.txt bagian pandangan
+28) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
 Rencana yang akan dikerjakan:
 =============================
-1) Menunggu konfirmasi TOR dan detail tugas 2
-2) Melakukan update terhadap memo.txt setiap hari kerja
-3) Membahas pengerjaan tugas bersama peserta lainnya
-4) Mencicil pengerjaan berkas 0003-pelaksanaan-OS201.txt yang berisi pengalaman perkuliahan OS
-5) Mencicil pengerjaan berkas 0004-catatan-OS201.txt yang berisi catatan UAS OS
-6) Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-7) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+1) Melakukan zoom meeting dengan Pak RMS
 
 Koordinasi dengan anggota lainnya:
 ==================================
@@ -72,3 +71,7 @@ Hasil yang telah dicapai:
    https://github.com/alviadibby/os201/blob/master/os201extra2/0003-pelaksanaan-OS201.txt
 5) Berkas 0004-catatan-OS201.txt
    https://github.com/alviadibby/os201/blob/master/os201extra2/0004-catatan-OS201.txt
+6) Berkas SHA1SUM
+   https://github.com/alviadibby/os201/blob/master/os201extra2/SHA1SUM
+7) Berkas SHA1SUM.asc
+   https://github.com/alviadibby/os201/blob/master/os201extra2/SHA1SUM.asc
