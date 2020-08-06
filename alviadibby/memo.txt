@@ -1,3 +1,4 @@
+REV16 Thu Aug 06 22:27:00 WIB 2020
 REV15 Thu Aug 06 19:21:00 WIB 2020
 REV14 Wed Aug 05 23:40:00 WIB 2020
 REV13 Tue Aug 04 21:38:00 WIB 2020
@@ -45,10 +46,12 @@ Yang dikerjakan sejak penulisan memo sebelumnya:
 26) Melakukan push REV04 dan REV05 0004-catatan-OS201.txt berisi revisi dan tambahan pandangan terhadap https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 27) Melakukan push REV06 0004-catatan-OS201.txt bagian pandangan
 28) Membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+29) Melakukan zoom meeting dengan Pak RMS
+30) Menambahkan hasil zoom meeting ke 0003-pelaksanaan-OS201.txt
+31) Membuat SHA1SUM dan SHA1SUM.asc ulang
 
 Rencana yang akan dikerjakan:
 =============================
-1) Melakukan zoom meeting dengan Pak RMS
 
 Koordinasi dengan anggota lainnya:
 ==================================
