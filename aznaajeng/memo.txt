@@ -1,3 +1,4 @@
+REV13 THU Aug 6  22:39:00 WIB 2020
 REV12 THU Aug 6  13:46:00 WIB 2020
 REV11 WED Aug 5  19:52:00 WIB 2020
 REV10 TUE Aug 4  11:32:00 WIB 2020
@@ -36,6 +37,10 @@ A) Apa yang dikerjakan sejak penulisan memo sebelumnya
 18) Melengkapi isi berkas 0004-catatan-OS201.txt sepenuhnya. 
 19) Memperbaiki kesalahan menulis di berkas 0004-catatan-OS201.txt
 20) Membuat SHA1SUM dan SHA1SUM.asc dalam "os201extra2/" 
+21) Mengikuti Zoom Meeting dengan peserta EXTRA dan Pak Rahmat
+22) Menambahkan perbadingan UTS mata kuliah lain dengan UAS mata kuliah tersebut pada berkas 0003-pelaksanaan-OS201.txt 
+23) Menambahkan saran untuk mata kuliah OS pada berkas 0003-pelaksanaan-OS201.txt 
+24) Mengupdate SHA1SUM dan SHA1SUM.asc
 
 B) Rencana yang akan dikerjakan
 1) Update MEMO
@@ -56,4 +61,4 @@ D) Hasil yang telah dicapai. Lampirkan URL dari rujukan serta URL dari produk.
 4) 0003-pelaksanaan-OS201.txt : https://github.com/aznaajeng/os201/tree/master/os201extra2
 5) 0004-catatan-OS201.txt : https://github.com/aznaajeng/os201/tree/master/os201extra2
 6) SHA1SUM : https://github.com/aznaajeng/os201/tree/master/os201extra2
-7) SHA1SUM.ASC : https://github.com/aznaajeng/os201/tree/master/os201extra2
+7) SHA1SUM.asc : https://github.com/aznaajeng/os201/tree/master/os201extra2
