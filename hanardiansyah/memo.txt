@@ -10,6 +10,7 @@ REV09 MON Aug 03 14:51:10 WIB 2020
 REV10 TUE Aug 04 14:23:21 WIB 2020
 REV11 WED Aug 05 21:28:31 WIB 2020
 REV12 THU Aug 06 13:24:00 WIB 2020 
+REV13 THU Aug 06 22:19:25 WIB 2020
 
 A. Apa yang dikerjakan sejak penulisan memo sebelumnya.
 ------------------------------------------------------
@@ -32,11 +33,14 @@ berapa, diupgrade ke nilai berapa.
 15) Melengkapi isi berkas 0004-catatan-OS201.txt yang sudah dipush di dalam "os201extra2/"
 16) Memperbaiki kesalahan menulis di berkas 0004-catatan-OS201.txt
 17) Membuat SHA1SUM dan SHA1SUM.asc dalam "os201extra2/" 
-18) Mengupdate memo
+18) Menambahkan perbadingan UTS mata kuliah lain dengan UAS mata kuliah tersebut pada berkas 0003-pelaksanaan-OS201.txt 
+19) Menambahkan saran untuk mata kuliah OS pada berkas 0003-pelaksanaan-OS201.txt 
+20) Mengupdate SHA1SUM dan SHA1SUM.asc
+21) Mengupdate memo
 
 B. Rencana yang akan dikerjakan
 -------------------------------
-Mengikuti ZOOM Meeting dengan Pak Rahmat 
+-
 
 C. Koordinasi dengan anggota lainnya
 ------------------------------------
