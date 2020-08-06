@@ -45,4 +45,5 @@ menambahkan materi pada 0004-catatan-OS201.txt (tentang catatan tambahan untuk p
 merapihkan dan menambah 0003-pelaksanaan-OS201.txt
 merapihkan dan menambah 0004-catatan-OS201.txt
 membuat SHA1SUM & SHA1SUM.asc
-
+mengupdate 0002-TOR.txt.asc : https://github.com/rafaputri86/os201/blob/master/extra201/
+menambahkan Saran dari hasil Zoom 06-08-2020 pada 0003-pelaksanaan-OS201.txt
