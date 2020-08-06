@@ -1,3 +1,4 @@
+REV10 THU Aug 06 11:15:27 WIB 2020
 REV09 WED Aug 05 20:27:34 WIB 2020
 REV08 TUE Aug 04 16:12:15 WIB 2020
 REV07 THU Jul 30 23:50:02 WIB 2020
@@ -29,13 +30,14 @@ Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 16. Membuat file 0004-catatan-OS201.txt.
 17. Menambahkan catatan untuk mata kuliah OS mengenai persiapan UAS pada berkas 0004-catatan-OS201.txt
 18. Melengkapi secara utuh untuk "Catatan untuk mata kuliah OS" pada berkas 0004-catatan-OS201.txt
+19. Menyelesaikan keseluruhan berkas 0004-catatan-OS201.txt
+20. Mengecek ulang isi dari file 0003-pelaksanaan-OS201.txt dan 0004-catatan-OS201.txt
 
 Rencana yang akan dikerjakan
 =============================
 1. Update MEMO secara berkala setiap harinya
-3. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-4. Melanjutkan pengisian berkas 0004-catatan-OS201.txt yang berisi analisa / perkiraan apa dan mengapa sesuatu terjadi
-5. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
+2. Memahami isi dari https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+3. membuat SHA1SUM dan SHA1SUM.asc pada "os201extra2/" dalam os201 (pribadi)
 
 Koordinasi dengan anggota lainnya
 =================================
