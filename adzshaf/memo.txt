@@ -1,3 +1,4 @@
+REV12  THU Aug 6   23:40:20 WITA 2020
 REV11  WED Aug 5   14:56:23 WITA 2020
 REV10  TUE Aug 4   23:12:50 WITA 2020
 REV09  MON Aug 3   21:45:35 WITA 2020
@@ -13,9 +14,9 @@ REV01  TUE Jul 21  03:18:01 WITA 2020
 
 Apa yang sudah dikerjakan sejak penulisan memo sebelumnya
 =============================================================
-1. Menyelesaikan pengerjaan 0004-catatan-OS201.txt
+1. Menambahkan perbandingan UTS dan UAS mata kuliah lain serta pengajaran mata kuliah lain di 0003-pelaksanaan-OS201.txt (berdasarkan feedback pada Zoom)
 
-2. Membuat SHA1SUM dan SHA1SUM.asc
+2. Update SHA1SUM dan SHA1SUM.asc
 
 Rencana yang akan dikerjakan
 =============================
