@@ -1,3 +1,4 @@
+# REV09 Thu Aug  06 22:00:30 WIB 2020
 # REV08 Mon Aug  03 21:33:30 WIB 2020
 # REV07 Wed Jul  29 20:34:55 WIB 2020
 # REV06 Mon Jul  27 19:18:33 WIB 2020
@@ -49,6 +50,8 @@ a. Hal yang Dikerjakan Sejak Penulisan Memo Sebelumnya
 20a) Melakukan perbaikan SCELE, Whatsapp group, dan email
 21)  Membuat berkas SHA1SUM dan SHA1SUM.asc
 22)  Melakukan update memo.txt (update 7)
+23)  Menambahkan pelaksaaan pengajaran sesudah UTS
+24)  Melakukan update memo.txt (update 8)
 
 b. Rencana yang Akan Dikerjakan
 ===============================
